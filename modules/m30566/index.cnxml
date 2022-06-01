@@ -1,0 +1,1304 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Investigate and approximate the area of polygons</title>
+  <metadata>
+  <md:content-id>m30566</md:content-id><md:title>Investigate and approximate the area of polygons</md:title>
+  <md:abstract/>
+  <md:uuid>86a34849-8c62-45c8-ab42-543ff31ebd4d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169971584174">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169971584174">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169971810054">
+      <title>Grade 4</title>
+      <para id="para-id1169971810054">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169971812142">
+      <title>SPACE AND SHAPE, PATTERNS, DATA HANDLING</title>
+      <para id="para-id1169971812142">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7194173">
+      <title>Module 14</title>
+      <para id="para-id7194173">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169972712037">
+      <title>INVESTIGATE AND APPROXIMATE THE AREA OF POLYGONS</title>
+      <para id="id1169971794460">Activity 1:</para>
+      <para id="id1169971745569">To investigate and approximate the area of polygons (using square grids and tiling) in order to develop an understanding of square units [LO 4.8]</para>
+      <list id="id2921355" list-type="bulleted">
+        <item>You know that when we tessellate, a flat space is completely covered without any overlapping and without spaces being left.</item>
+      </list>
+      <para id="id4284574">1. Square blocks covered by your hand.</para>
+      <para id="id1169976523173">1.1 On the grid paper below, carefully place your hand with the fingers spread out. Trace around your hand with your pencil, stopping at the wrist. Lift your hand. You will see a beautiful outline of your hand. We want to find out how many square blocks your hand covers.</para>
+      <para id="id1169971966332">1.2 Put a dot in each full block as you count it, and write down the total number of full blocks covered by your hand in the table on the next page. Now look for places where half a block is covered. Two half blocks will make a whole block, so put a dot in each and count them as one whole block. Write down the total. Now combine those less than a half with those more than a half to make more wholes. Write down that total. Now add the totals. That should give you an approximate idea of how many blocks are covered by your hand.</para>
+      <table id="id6649489" summary="">
+        <tgroup cols="15">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169982471649">Square blocks covered by my hand.</para>
+      <table id="id4935656" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Whole Blocks</entry>
+              <entry>Half blocks made into whole blocks</entry>
+              <entry>Other bits made into whole blocks</entry>
+              <entry>Total number of blocks covered by my hand.</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169972671336">1.3 Now colour in the shape of your hand on the paper.</para>
+      <para id="id6588683">2. Count the square blocks covered by the following shape in the same way. First count the whole blocks. Then combine bits to make whole blocks. (Put dots in the blocks as you count them, if it helps.)</para>
+      <table id="id6564994" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <media id="id1169971964708" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 1-c629.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>Total number of blocks covered: …………………. square blocks.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169971848151">3. Count the blocks covered by the following polygons:</para>
+      <figure id="id4204101">
+        <media id="id4204101_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-0c3c.png" id="id4204101__onlineimage" height="212" width="258"/>
+        </media>
+      </figure>
+      <para id="id1169971824430">3. 1 _________ square blocks</para>
+      <figure id="id8613023">
+        <media id="id8613023_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-43d5.png" id="id8613023__onlineimage" height="211" width="255"/>
+        </media>
+      </figure>
+      <para id="id1169976978962">3.2 _______________square blocks</para>
+      <para id="id1169972640779">Measure the square blocks with your ruler. They are 1 cm long and 1 cm wide, so instead of calling them “square blocks”, we can call them SQUARE CENTIMETRES.</para>
+      <para id="id1169974458675">4. Now find the number of square centimetres covered by each of the following polygons:</para>
+      <figure id="id1169972747243">
+        <media id="id1169972747243_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-47c5.png" id="id1169972747243__onlineimage" height="203" width="328"/>
+        </media>
+      </figure>
+      <para id="id5875522">4.1_____________ square cm</para>
+      <para id="id1169971703831">
+        <figure id="id1169972653132">
+          <media id="id1169972653132_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 5-233a.png" id="id1169972653132__onlineimage" height="205" width="293"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3498685">4.2_______________  square cm</para>
+      <para id="id1169971859517">5. Let’s pretend that you have made a doll’s house for a younger cousin. You have covered the floor of the bathroom with paper on which you have drawn 1 cm square blocks. There is a bath mat on the floor as shown below. How many of the tiles are covered by the bath mat?</para>
+      <figure id="id1169972988653">
+        <media id="id1169972988653_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-6978.png" id="id1169972988653__onlineimage" height="206" width="571"/>
+        </media>
+      </figure>
+      <list id="id2622850" list-type="bulleted">
+        <item>Explain to a friend how you calculated your answer.</item>
+        <item>Write down how you calculated your answer. Also write down your answer. Remember to write “square cm” with your answer. 6. In the family room there is a mat that is 4 m long and 3 m wide.</item>
+      </list>
+      <para id="id1169976351584">6.1 Draw a diagram to show what the mat looks like and label the length and the width.</para>
+      <para id="id1169972676845">6.2 Calculate how many square metres of floor are covered by the mat. Write down your  calculation and the answer. Remember to write “square metres” with the answer.</para>
+      <para id="id1169976892823">6.3 Now draw blocks on your diagram so that it is four blocks long and three blocks wide. Check your answer for 6.2.</para>
+      <para id="id1169976395167">7. Dad uses 36 square tiles to tile the floor of a square braai area. He starts to tile the floor by placing 6 tiles next to each other along the edge of this floor.</para>
+      <para id="id2902111">7.1 How many rows of six tiles each will he have when he has finished?</para>
+      <para id="id3015587">7.2 Draw a diagram to show what it looks like.</para>
+      <para id="id1169973010602">8. </para>
+      <list id="id1169971845122" list-type="bulleted">
+        <item>Can one make a square tiled area with 25 square tiles?  </item>
+      </list>
+      <para id="id8967038">8.2 Make a diagram to show what it would look like.</para>
+      <para id="id6964010">9. Dad uses 736 tiles to tile a rectangular stoep. There are 23 tiles across the width of the stoep. How many tiles are there down the length of this stoep? Write down your calculation and answer.</para>
+      <para id="id5054897">10. Little 1 cm square tiles that look like Tiger’s eye semi-precious stones are used to cover a work surface in the kitchen. There are 75 of these tiles along the length of this surface, and 54 tiles across its width. How many tiles are there altogether?</para>
+      <para id="id1169982612982">Activity 2:</para>
+      <para id="id1169976397081">To investigate and extend numeric and geometric patterns not limited to sequences involving constant difference or ratio [LO 2.1]</para>
+      <para id="id6988999">1.1</para>
+      <figure id="id4529211">
+        <media id="id4529211_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id4529211__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <para id="id1169971752290">1.2</para>
+      <figure id="id5151817">
+        <media id="id5151817_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id5151817__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <figure id="id8415716">
+        <media id="id8415716_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-9254.png" id="id8415716__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <para id="id1169976936831">1.3</para>
+      <figure id="id1169974805099">
+        <media id="id1169974805099_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-9254.png" id="id1169974805099__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <figure id="id8893650">
+        <media id="id8893650_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-9254.png" id="id8893650__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <figure id="id4831499">
+        <media id="id4831499_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-9254.png" id="id4831499__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <para id="id4530933">1.4</para>
+      <para id="id1169972639194">1. Look at the following shapes (which can be made with cuisenaire rods or toothpicks) and write down your answers:</para>
+      <para id="id1169972672495">There is a very obvious pattern. Predict what 1.4 will be.</para>
+      <para id="id1169972998436">That pattern is so easy because each time the pattern changes in the same way.</para>
+      <para id="id1169971644597">Spotting a pattern can save us time and energy when we calculate answers.</para>
+      <para id="id2653687">2. Now look at the multiples of 9 again. We have already noticed one pattern. Maybe you noticed another? 9; 18; 27; 36; …..</para>
+      <para id="id7143004">Add the digits that make each multiple: 0 + 9 =____; 1 + 8 =____; 2 + 7 =____; 3 + 6 = ____</para>
+      <para id="id1169971971842">Is this true of all the multiples of 9? Try a few more. It can be useful if you are not sure of a multiple. Some learners are not sure if 54 or 56 is a multiple of 9. Which is it? ____</para>
+      <para id="id1169975114152">John knows seventy something is a multiple of 9. Help him: seventy-___ All John has to do is to say: 7 + ___ = 9; the multiple is 72.</para>
+      <para id="id1169971954906">3. Complete the table by discovering and using the pattern:</para>
+      <para id="id1169971690904">3.1</para>
+      <table id="id1169972599273" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>Input </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>13</entry>
+            </row>
+            <row>
+              <entry>Output</entry>
+              <entry>7</entry>
+              <entry>14</entry>
+              <entry>21</entry>
+              <entry>28</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169972767713">3.2 This information could also be given in a flow diagram. Please complete the flow diagram by looking at 4.1 again:</para>
+      <figure id="id6516315">
+        <media id="id6516315_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-39ae.png" id="id6516315__onlineimage" height="239" width="347"/>
+        </media>
+      </figure>
+      <para id="id2924859">3.3 Write in words what was done: The input number was____________</para>
+      <para id="id1169971616865">4.</para>
+      <para id="id8866459">4.1 Complete the table and then describe to your friends what was done:</para>
+      <table id="id1169972017338" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>12</entry>
+              <entry>17</entry>
+              <entry>22</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169976594164">4.2 Put the <emphasis effect="bold">same</emphasis> information from 5.1 in a flow diagram:</para>
+      <para id="id6966736"/>
+      <figure id="id3492062">
+        <media id="id3492062_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-7024.png" id="id3492062__onlineimage" height="199" width="522"/>
+        </media>
+      </figure>
+      <para id="id3399311">4.3 Write down in words what was done: The input number was ______</para>
+      <para id="id1169971712145">5.</para>
+      <para id="id1169972729421">5.1 Now find the “recipe” and complete this table:</para>
+      <table id="id1169971793132" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1006361" list-type="bulleted">
+        <item>Write down in words what was done: The input number was ________</item>
+      </list>
+      <para id="id1169976080842">5.3 Now find the “recipe” to complete this table:</para>
+      <table id="id7139185" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>14</entry>
+            </row>
+            <row>
+              <entry>Out</entry>
+              <entry>3</entry>
+              <entry>7</entry>
+              <entry>11</entry>
+              <entry>15</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169971625755" list-type="bulleted">
+        <item>Write down in words what was done: The input number was _______</item>
+      </list>
+      <para id="id1169980319433">5.5 Why cannot this table in 6.3 be written in a flow diagram? Discuss this with your friends and then write down your answer.</para>
+      <para id="id1169971905046">6. Other patterns involving numbers:</para>
+      <para id="id7014216">6.1 Add: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10</para>
+      <para id="id2762475">One can just add them in that order, or one can look for patterns. Just as we paired the numbers on opposite sides of the dice, so let us pair opposite numbers here: the first and the last and so on. It becomes:</para>
+      <para id="id1169972955035">1 + 10 and 2 + 9 and 3 + 8 and 4 + 7 and 5 + 6. What do you notice about the totals?</para>
+      <para id="id1169972646811">_______ This can be shortened to: 5 × 11. Explain this to a friend. Where does 5 × 11 come from?</para>
+      <para id="id6837030">6.2 Add all the numbers from 1 to 20 inclusive. Look for a pattern and a short way. Write down what you did and your answer on the dotted line below. Then check your answer the long way. You may use a calculator to do so.</para>
+      <para id="id1169971878194">7. Another interesting pattern can be seen in the answers if you add:</para>
+      <list id="id4281343" list-type="bulleted">
+        <item>1 to 10 inclusive = _____</item>
+        <item>11 to 20 inclusive = _____</item>
+        <item>21 to 30 inclusive = _____</item>
+        <item>31 to 40 inclusive = _____</item>
+        <item>41 to 50 inclusive, and so on to 100. Write down the answers, study them and try to explain why this pattern occurs.</item>
+      </list>
+      <para id="id1169971624073">8. More patterns with shapes. The following pattern may be made with toothpicks, one for each straight line.</para>
+      <figure id="id7180497">
+        <media id="id7180497_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 19-cde0.png" id="id7180497__onlineimage" height="69" width="361"/>
+        </media>
+      </figure>
+      <list id="id1169971762800" list-type="bulleted">
+        <item>Pattern: Each time we add one triangle, we need ______more toothpicks.</item>
+        <item>We could put our information into a table. Please complete it.</item>
+      </list>
+      <table id="id7021617" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Number of triangles</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>17</entry>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry>Number of toothpicks</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169973452529" list-type="bulleted">
+        <item>How are the last two answers calculated? There are at least two different ways (without a calculator) and it is important that you should discuss these with your friends.</item>
+      </list>
+      <para id="id1169972651624"><emphasis effect="bold">Hint:</emphasis> Maybe you could look at the toothpicks needed for six triangles and use them to calculate how many toothpicks are needed for 17 triangles, or you could think that you know the general pattern and just apply it to find out how many toothpicks are needed for 17 triangles. Your discussion is important, so the answers are not being given to you.The same applies to the 25 triangles.</para>
+      <para id="id1169976283280">8.4 Write down how you calculated the answers for</para>
+      <list id="id1169975123752" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>17 triangles</item>
+        <item>25 triangles</item>
+      </list>
+      <para id="id1169971598496">9. Complete the table:</para>
+      <table id="id1169971885353" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>Out</entry>
+              <entry>8</entry>
+              <entry>15</entry>
+              <entry>22</entry>
+              <entry>29</entry>
+              <entry>36</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169971623087">TEST YOUR PROGRESS</para>
+      <para id="id1169971979577">1. Do the following show tessellation? Write “yes” or “no” for each one.</para>
+      <table id="id1169980325475" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <media id="id8730279" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 20-9702.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1169976999288" list-type="bulleted">
+                  <item>Using the trapezium and diamond ________</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id6065361" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 21-2ef3.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id2762809" list-type="bulleted">
+                  <item>Using just the trapezium ________</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id4183491" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 22-8c82.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1169972987551" list-type="bulleted">
+                  <item>Using circles _______</item>
+                </list>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169976120780">2. Write down one way in which the sides of a trapezium differ from the sides of a </para>
+      <para id="id1169976976062">parallelogram .</para>
+      <para id="id1169975366843">3. Why is the triangle used in the building of the framework of the roofs of houses?</para>
+      <para id="id1169973559065">4. On a floor there are 10 tiles in a row and there are 17 rows of tiles. How many tiles are there altogether?</para>
+      <para id="id1169972632872">5. Dad uses 135 tiles to tile a stoep. He places 9 tiles across the width of the stoep. How many tiles are there in the length of the stoep?</para>
+      <para id="id1169971933120">6. Make a diagram to show what a square tiled area would look like if 16 square tiles were used to cover it. Use your ruler to draw in the tiles.</para>
+      <para id="id1169972017048">7. Complete the table:</para>
+      <table id="id1169971701801" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>12</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>13</entry>
+              <entry>16</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169971947192">8. Complete this table:</para>
+      <table id="id1169976329084" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>9</entry>
+              <entry>16</entry>
+              <entry/>
+              <entry/>
+              <entry>100</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169974270515">9. Thirty squares are made with toothpicks as shown in the diagram (one toothpick for each straight line). How many toothpicks are needed?</para>
+      <para id="id6467847"/>
+      <list id="id1169984381391" list-type="enumerated" number-style="arabic">
+        <item>Find a pattern and write down the missing numbers: 5; 13; 21; 29; ___;___</item>
+      </list>
+    </section>
+    <section id="id1169976116854">
+      <title>Assessment</title>
+      <table id="id7140345" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates and extends numeric and geometric patterns looking for a relationship or rules, including patterns:</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1169972738891" list-type="bulleted">
+                  <item>represented in physical or diagrammatic form;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>2.1.2 not limited to sequences involving constant difference or ratio.</entry>
+            </row>
+            <row>
+              <entry>2.2 describes observed relationships or rules in own words.</entry>
+            </row>
+            <row>
+              <entry>LO 4 </entry>
+            </row>
+            <row>
+              <entry>measurementThe learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>4.8 investigates and approximates (alone and /or as a member of a group or team):</entry>
+            </row>
+            <row>
+              <entry>4.8.2 area of polygons (using square grids and tiling) in order to develop an understanding of square units;<list id="id1169970887088" list-type="bulleted"><item>volume/capacity of three-dimensional objects (by packing or filling them) in order to develop an understanding of cubic units.</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1169971981259">
+      <title>Memorandum</title>
+      <para id="id1169976594512">ACTIVITY 1area of polygons</para>
+      <para id="id1169970889118">1.1 to 1.3 Practical own work and recording of it.</para>
+      <para id="id1169976487748">2. 4 whole blocks and 5 and a bit blocks = about 9 blocks</para>
+      <para id="id1169972975028">3.1 6</para>
+      <para id="id1169982120885">3.2 12</para>
+      <list id="id4289952" list-type="bulleted">
+        <item>about 8 square cm</item>
+        <item>7 square cm</item>
+      </list>
+      <list id="id1169980314958" list-type="bulleted">
+        <item>counted the length on the long side and the number of tiles on the short side.</item>
+        <item>5 x 2 = 10 tiles or 10 square cm</item>
+      </list>
+      <list id="id7175545" list-type="bulleted">
+        <item>Drawing</item>
+        <item>4m x 3m = 12 square metres</item>
+        <item>Drawing</item>
+      </list>
+      <list id="id1169972592450" list-type="bulleted">
+        <item>6 rows</item>
+        <item>Drawing</item>
+      </list>
+      <para id="id2721694">8.1 Yes</para>
+      <para id="id2925206">8.2 Drawing</para>
+      <para id="id1169971785998">9. 23 x ? =736</para>
+      <para id="id1169971994309"> 32 tiles</para>
+      <para id="id1169976955218">10. 75 x 54 = 4 050 tiles!</para>
+      <para id="id1169972649942">ACTIVITY 2 Patterns</para>
+      <para id="id1169974801311">1.4 </para>
+      <para id="id2126030">4 shapes</para>
+      <para id="id1169972965577">2. Multiples of 9 – the digits forming each multiple of 9 add up to 9, so 54 is a multiple of 9; 72 is a multiple of 9. This is useful for checking answers.</para>
+      <list id="id1169972971711" list-type="bulleted">
+        <item>Missing output numbers: 35; 42; 49; 70; 91</item>
+        <item>Flow diagram: input numbers: 1; 2; 3; 4; 5; 6; 7; 8; 9; 10 Operator: x 7</item>
+      </list>
+      <para id="id1169971852607">Output numbers: 7; 14; 21; 28; 35; 42; 49; 56; 63; 70 </para>
+      <list id="id1169976332391" list-type="bulleted">
+        <item>multiplied by 7</item>
+      </list>
+      <para id="id1169972662056">4.1</para>
+      <table id="id3080103" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>12</entry>
+              <entry>17</entry>
+              <entry>22</entry>
+              <entry>37</entry>
+              <entry>42</entry>
+              <entry>47</entry>
+              <entry>52</entry>
+              <entry>102</entry>
+              <entry>252</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3951525">4.2 Flow diagram:</para>
+      <para id="id1169971885411">Input numbers: 1; 2; 3; 4; 7; 8; 9; 10; 20; 50</para>
+      <para id="id1169971818492">Operators:   x 5 + 2</para>
+      <para id="id6960298">Output numbers: 7; 12; 17; 22; 37; 42; 47; 52; 102; 252</para>
+      <para id="id2658140">4.3 multiplied by 5 and 2 was added to the answer.</para>
+      <para id="id1169976118278">5.1</para>
+      <table id="id6086235" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>13</entry>
+              <entry>19</entry>
+              <entry>23</entry>
+              <entry>25</entry>
+              <entry>41</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169972680557">5.2 multiplied by 2 and 1 was added to the answer</para>
+      <para id="id1169976936077">5.3</para>
+      <table id="id1169971585312" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>14</entry>
+            </row>
+            <row>
+              <entry>Out</entry>
+              <entry>3</entry>
+              <entry>7</entry>
+              <entry>11</entry>
+              <entry>15</entry>
+              <entry>19</entry>
+              <entry>23</entry>
+              <entry>27</entry>
+              <entry>39</entry>
+              <entry>55</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8714127">5.3 multiplied by 4 and 1 was subtracted from the answer.</para>
+      <list id="id2170590" list-type="bulleted">
+        <item>It can!  x 4 – 1</item>
+      </list>
+      <list id="id1169972980750" list-type="bulleted">
+        <item>Own</item>
+      </list>
+      <para id="id6162661">6.2 1 + 20; 2 + 19; 3 + 18; 4 + 17; 5 + 16; 6 + 15; 7 + 14; 8 + 13; 9 + 12; 10 + 11</para>
+      <para id="id6589338">10 x 21 = 210</para>
+      <para id="id8897371">7. 55; 155; 255; 355; 455 etc.</para>
+      <para id="id4876799"> Own</para>
+      <para id="id1169973303563">8.1 2</para>
+      <para id="id5598404">8.2</para>
+      <table id="id1169973000292" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Triangles</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>17</entry>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry>Tooth-picks</entry>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>13</entry>
+              <entry>35</entry>
+              <entry>51</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id2890900" list-type="bulleted">
+        <item>Discussion</item>
+      </list>
+      <para id="id1741002">8.4 (a) 17 x 2 + 1  </para>
+      <para id="id1169972597533">(b) 25 x 2 + 1</para>
+      <para id="id1169984455059">9.</para>
+      <table id="id6866802" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>Out</entry>
+              <entry>8</entry>
+              <entry>15</entry>
+              <entry>22</entry>
+              <entry>29</entry>
+              <entry>36</entry>
+              <entry>43</entry>
+              <entry>71</entry>
+              <entry>141</entry>
+              <entry>351</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id1169971760480">
+        <title>TEST YOUR PROGRESS</title>
+        <para id="id1169972673191">1.1 Yes </para>
+        <para id="id1169971816202">1.2 Yes </para>
+        <para id="id1169971567771">1.3 No</para>
+        <para id="id1169984665992">2. Only 1 pair of opposite sides are parallel; they are not equal in length.</para>
+        <para id="id1169971973582">3. It is a rigid shape.</para>
+        <para id="id1169972676903">4.  170 tiles</para>
+        <para id="id1169972017686">5. 15 tiles</para>
+        <para id="id1169971869141">6. Diagram 4 by 4</para>
+        <para id="id8796198">7.</para>
+        <table id="id1169984724855" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>10</entry>
+                <entry>12</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>7</entry>
+                <entry>10</entry>
+                <entry>13</entry>
+                <entry>16</entry>
+                <entry>19</entry>
+                <entry>31</entry>
+                <entry>37</entry>
+                <entry>61</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id2838855">8.</para>
+        <table id="id1169971936890" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>4</entry>
+                <entry>9</entry>
+                <entry>16</entry>
+                <entry>49</entry>
+                <entry>64</entry>
+                <entry>100</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169984642033"/>
+        <para id="id1169980098196">10. 5; 13; 21; 29; 37; 45</para>
+      </section>
+    </section>
+  </content>
+</document>

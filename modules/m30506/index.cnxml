@@ -1,0 +1,818 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Recognise and represent decimal fractions</title>
+  <metadata>
+  <md:content-id>m30506</md:content-id><md:title>Recognise and represent decimal fractions</md:title>
+  <md:abstract/>
+  <md:uuid>e362a8cc-1f73-422e-bd51-f80fe49fdfb1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170858220380">
+      <title>MATHEMATICS</title>
+      <para id="para-id1170858220380">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170853676636">
+      <title>Grade 4</title>
+      <para id="para-id1170853676636">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6574045">
+      <title>NUMBERS, FEACTIONS, DECIMALS AND NUMBER PATTERNS</title>
+      <para id="para-id6574045">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170856074096">
+      <title>Module 9</title>
+      <para id="para-id1170856074096">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170861073816">
+      <title>RECOGNISE AND REPRESENT FRACTIONS</title>
+      <para id="id8103954">Activity 1:</para>
+      <para id="id1170851891326">To recognise and represent decimal fractions [LO 1.3]</para>
+      <para id="id7418617">RECOGNIZING DECIMALS</para>
+      <para id="id5876991">1. What are decimals?</para>
+      <para id="id5307498">1.2 Think back to Place Value: Thousands; Hundreds; Tens and Units.</para>
+      <para id="id6114328">Complete the following:</para>
+      <table id="id4059446" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>1 000  10 = 100</entry>
+            </row>
+            <row>
+              <entry>100  10 =</entry>
+            </row>
+            <row>
+              <entry>10  10 =</entry>
+            </row>
+            <row>
+              <entry>110 = ?</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170860783068">1.3 Now check your answers on the calculator.</para>
+      <para id="id1170851877225">The calculator says that 1 10 = 0,1. What does 0,1 then mean? Discuss with a friend.</para>
+      <para id="id6111080">1.4 Draw lines on the bar below to show tenths. One has been divided by 10. We say that 0,1 is one tenth. It is the only way in which calculators can write one tenth, because of the way that they have been programmed. Now label each section on the bar below 0,1.</para>
+      <table id="id1170860662132" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6726194">What is the meaning of 0,1? We have found that 1  10 = 0,1.</para>
+      <para id="id1170864425246">Think back to Fractions: we said: 1  2 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170853143166">So 1  10 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170857096579">1  10 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 0,1</para>
+      <para id="id1170858313261">0,1 is just another way of writing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id5099477">Study the diagram:</para>
+      <table id="id1170853416543" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Thousands1 000</entry>
+              <entry>Hundreds100</entry>
+              <entry>Tens10</entry>
+              <entry>Units1</entry>
+              <entry>Tenths</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id7690062" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Thousands1 000</entry>
+              <entry>Hundreds100</entry>
+              <entry>Tens10</entry>
+              <entry>Units1</entry>
+              <entry>Tenths
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>7 </entry>
+              <entry>1</entry>
+              <entry>9</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6682657"> How do we show the end of the whole number when there are no headings?</para>
+      <para id="id3386834">We use a DECIMAL COMMA.</para>
+      <para id="id1170853148831"> What are the numbers that have been written in the columns?</para>
+      <list id="id1170853906265" list-type="bulleted">
+        <item>7 193, 6 = 7 × 1 000 + 1 × 100 + 9 × 10 + 3 × 1 + six tenths</item>
+        <item>5 069,1 = 5 × 1 000 + 0 + 6 × 10 + 9 × 1 + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id1170865655787">Our calculators cannot write common fractions as we can; they are only machines that have been programmed to use place value, so they can only write decimal fractions.</para>
+      <para id="id1170858331539">Remember: We use a DECIMAL COMMA</para>
+      <para id="id4452162">to show the END OF THE WHOLE NUMBER</para>
+      <para id="id6041581">and the BEGINNING OF THE DECIMAL FRACTION</para>
+      <para id="id1170856990834">2. Now write the following decimal numbers in their expanded form under the correct heading in the columns below:</para>
+      <para id="id6688388">2.1 (a) 1 456,3 (b) 4 601,9 (c) 8,5 (d) 31, 7 (e) 456,2</para>
+      <table id="id3449859" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>X 1 000</entry>
+              <entry>× 100</entry>
+              <entry>× 10</entry>
+              <entry>× 1</entry>
+              <entry>× 0,1(tenths)</entry>
+            </row>
+            <row>
+              <entry>(a)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(b)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(c)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(d)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(e)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4046439">The FIRST digit after the decimal comma is always TENTHS.</para>
+      <para id="id1170851945758">2.2 Now write them again in their expanded form:</para>
+      <para id="id5626136">(a) 1 456,3 = 1 × 1 000 + 4 × 100 + 5 × 10 + 6 × 1 + 3 × 0,1</para>
+      <para id="id1170852947812">Activity 2:</para>
+      <para id="id6583773">To compare fractions [LO 1.5]</para>
+      <para id="id1170867894177">1. Carefully consider the value of each digit and use the correct sign from:&lt;;  ; = to &gt; compare the following:</para>
+      <para id="id1170852957431">1.1  1,5 _____1,7 1.4 45,9 ____62,3</para>
+      <para id="id1170853562477">1.2  6,3 ____ 6,1 1.5 13,2 ____8,6</para>
+      <para id="id1170852076753">1.3  24,7____ 42,3 1.6 57,5 ____58,2</para>
+      <para id="id5189659">2. Encircle the largest number:</para>
+      <para id="id6800821">43,7; 41,9; 43,1; 49,1; 41,5</para>
+      <para id="id3729591">3. Write down the number that is:</para>
+      <table id="id1170865146699" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Answer</entry>
+              <entry/>
+              <entry>Answer</entry>
+            </row>
+            <row>
+              <entry>3.1 one more than 9,9</entry>
+              <entry>3.1</entry>
+              <entry>3.5 0,1 less than 7,1</entry>
+              <entry>3.5</entry>
+            </row>
+            <row>
+              <entry>3.2 0,1 more than 5,3 </entry>
+              <entry>3.2</entry>
+              <entry>3.6 0,1 more than 99,0</entry>
+              <entry>3.6</entry>
+            </row>
+            <row>
+              <entry>3.3 0,1 less than 6</entry>
+              <entry>3.3</entry>
+              <entry>3.7 0,1 more than 5,8</entry>
+              <entry>3.7</entry>
+            </row>
+            <row>
+              <entry>3.4 0,1 less than 8,3</entry>
+              <entry>3.4</entry>
+              <entry>3.8 0,1 less than 10</entry>
+              <entry>3.8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2248920">Activity 3:</para>
+      <para id="id1170854525715">To convert from fractions to decimal fractions and vice versa [LO 1.5]</para>
+      <para id="id1170852098717">Group discussion.</para>
+      <para id="id4637323">1. Read the following conversation between John and Sarah.</para>
+      <figure id="id3361330">
+        <media id="id3361330_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-b7e7.png" id="id3361330__onlineimage" height="245" width="511"/>
+        </media>
+      </figure>
+      <list id="id6328589" list-type="bulleted">
+        <item>Was Sarah’s answer correct? It did not seem to help John completely. Where did the ,5 come from? Discuss. Try to explain why half = 0,5 on a calculator.</item>
+        <item>Which of you were wide awake? All of you? Did you all know? Wonderful! Yes, it’s because the calculator counts in tenths and five-tenths = one-half. The poor calculator has to use equivalent fractions to make tenths from things like halves and quarters and any fractions that are not tenths (hundredths and thousandths, but they come later).</item>
+      </list>
+      <para id="id5821624">With a calculator:</para>
+      <para id="id1170865241759">2. Make decimal fractions from the following:</para>
+      <para id="id1170853377879">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> = 3  4 = 0, ____</para>
+      <table id="id1170852919065" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math> = 25 =</entry>
+            </row>
+            <row>
+              <entry>2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> =</entry>
+            </row>
+            <row>
+              <entry>2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math> =</entry>
+            </row>
+            <row>
+              <entry>2.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {5} } } {}</m:annotation></m:semantics></m:math> = </entry>
+            </row>
+            <row>
+              <entry>2.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170864124744">We can convert any ordinary fraction to decimals in that way.</para>
+      <para id="id1170856295466">3. Make one-third into a decimal: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 1  3 =_____</para>
+      <para id="id4889052">Can you think of a reason why the answer is the way it is?</para>
+      <para id="id6776687">Without a calculator:</para>
+      <para id="id1170853368690">4. Write down equivalent fractions for each of the following and then write them as decimal fractions:</para>
+      <table id="id6486515" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Fraction</entry>
+              <entry>Fraction as tenths</entry>
+              <entry>Decimal fraction</entry>
+            </row>
+            <row>
+              <entry>half</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>one third</entry>
+              <entry>Can’t</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id7930707" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Fraction</entry>
+              <entry>Fraction as tenths</entry>
+              <entry>Decimal fraction</entry>
+            </row>
+            <row>
+              <entry>two-thirds</entry>
+              <entry>Can’t</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>one-quarter</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>three-quarters</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>one-fifth</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>two-fifths</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>three-fifths</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>four-fifths</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>one-sixth</entry>
+              <entry>Can’t</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>one-eighth</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4236818">(Some of the above have more than one decimal place but it is good to know about them.)</para>
+      <para id="id1170852958127">5. What about the thirds and sixths and others that cannot be made into tenths? Use division.</para>
+      <list id="id8040836" list-type="bulleted">
+        <item>one-third = 1  3 =</item>
+        <item>two-thirds = 2  3 =</item>
+      </list>
+      <para id="id1170854721142">Use your own method for the division or use a calculator. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 1  3</para>
+      <para id="id5113310">Or one way: ? x 3 = 1</para>
+      <para id="id4574309"> 0 x 3 = 0,0</para>
+      <para id="id3732114"> 0,3 x3 = 0,9</para>
+      <para id="id1170852827251"> 0,03 x 3 = <emphasis effect="underline">0,09</emphasis></para>
+      <para id="id1170860939092"> 0,99 (which is nearly 1)</para>
+      <para id="id1170856497762"> so: (0 x 3) + (<emphasis effect="underline">0,3</emphasis> x 3) + (<emphasis effect="underline">0,03</emphasis> x 3)</para>
+      <para id="id5594851">  0 + 0,3 + 0,03</para>
+      <para id="id4951136">  = 0,333</para>
+      <para id="id5433993"> (and the calculator will go on dividing: 0,333)</para>
+      <para id="id1170853406352">We say: 0,3 recurring or 0,3֯(The dot means recurring.)</para>
+      <para id="id3602686">TEST YOUR PROGRESS</para>
+      <para id="id4677753">1. Solve without a calculator:</para>
+      <para id="id1170852116171">1.1 17 × 26</para>
+      <para id="id4644396">1.2 153  9</para>
+      <para id="id1170858180440">2. Share 11 sausage rolls equally amongst 10 boys. How much sausage roll will each boy receive?</para>
+      <para id="id1170856966573">3. Share 12 sausage rolls equally amongst 10 boys. How much sausage roll will each boy receive?</para>
+      <para id="id1170852136450">4. Mike drinks 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{1 {  {1}  over  {2} } }} {}</m:annotation></m:semantics></m:math> mugs of milk for breakfast. His sister, Sharon, drinks 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> of a mug of milk. How much milk have they drunk altogether?</para>
+      <para id="id1170851969589">5. Write the following in expanded notation:</para>
+      <table id="id1170856502663" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>5.1 64,8 =</entry>
+            </row>
+            <row>
+              <entry>5.2 341,2 =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170856440145">6. Write as decimals:</para>
+      <list id="id1170852136915" list-type="bulleted">
+        <item>Three and four-fifths = ………………………</item>
+        <item>One and three-tenths = ………………….</item>
+        <item>Five and one-quarter = …………………</item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{4 {  {1}  over  {2} } }} {}</m:annotation></m:semantics></m:math> = ………………….</item>
+      </list>
+      <para id="id8774394">7. From&lt;; &gt; ; = write down the correct sign to make the following true:</para>
+      <list id="id1170852086197" list-type="bulleted">
+        <item>2,4 ____ 4,2</item>
+        <item>1,7 _____2,1</item>
+      </list>
+      <para id="id1170860790205">8. Write down the number that is:</para>
+      <table id="id1170864282796" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Answer</entry>
+            </row>
+            <row>
+              <entry>one tenth more than 45,9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>one tenth less than 10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id5167245">
+      <title>Assessement</title>
+      <table id="id4948170" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.1 counts forwards and backwards in a variety of intervals;</entry>
+            </row>
+            <row>
+              <entry>1.3 recognises and represents the following numbers in order to describe and compare them: common fractions with different denominators, common fractions in diagrammatic form, decimal fractions and multiples of single-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.3.2 common fractions with different denominators, including halves, thirds, quarters, fifths, sixths, sevenths and eighths;</entry>
+            </row>
+            <row>
+              <entry>1.3.3 common fractions in diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>1.3.4 decimal fractions of the form 0,5; 1,5 and 2,5; etc., in the context of measurement; </entry>
+            </row>
+            <row>
+              <entry>1.3.6 multiples of single-digit numbers to at least 100;</entry>
+            </row>
+            <row>
+              <entry>1.5 recognises and uses equivalent forms of the numbers including common fractions and decimal fractions;</entry>
+            </row>
+            <row>
+              <entry>1.5.1 common fractions with denominators that are multiples of each other;</entry>
+            </row>
+            <row>
+              <entry>1.5.2 decimal fractions of the form 0,5; 1,5 and 2,5, etc., in the context of measurement;</entry>
+            </row>
+            <row>
+              <entry>1.7 solves problems that involve comparing two quantities of different kinds (rate);</entry>
+            </row>
+            <row>
+              <entry>1.7.1 comparing two or more quantities of the same kind (ratio);</entry>
+            </row>
+            <row>
+              <entry>1.8 estimates and calculates by selecting and using operations appropriate to solving problems that involve addition of common fractions, multiplication of at least whole 2-digit by 2-digit numbers, division of at least whole 3-digit by 1-digit numbers and equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.8.3 addition of common fractions in context;</entry>
+            </row>
+            <row>
+              <entry>1.8.6 equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.9 performs mental calculations involving:</entry>
+            </row>
+            <row>
+              <entry>1.9.2 multiplication of whole numbers to at least 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.12 recognises, describes and uses:, and </entry>
+            </row>
+            <row>
+              <entry>1.12.1 the reciprocal relationship between multiplication and division (e.g. if 5 x 3 = 15 then 15 ÷ 3 = 5 and 15 ÷ 5 = 3;</entry>
+            </row>
+            <row>
+              <entry>1.12.2 the equivalence of division and fractions (e.g. 1 ÷ 8 = ⅛);</entry>
+            </row>
+            <row>
+              <entry>1.12.3 the commutative, associative and distributive properties with whole numbers.</entry>
+            </row>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates and extends numeric and geometric patterns looking for a relationship or rules;</entry>
+            </row>
+            <row>
+              <entry>2.1.1 represented in physical or diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>2.1.2 not limited to sequences involving constant difference or ratio;</entry>
+            </row>
+            <row>
+              <entry>2.1.3 found in natural and cultural contexts;</entry>
+            </row>
+            <row>
+              <entry>2.1.4 of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 describes observed relationships or rules in own words;</entry>
+            </row>
+            <row>
+              <entry>2.3 determines output values for given input values using verbal descriptions and flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.3.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.3.2 flow diagrams.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id5140717">
+      <title>Memorandum</title>
+      <para id="id4863671">ACTIVITY 1: recognising and representing decimal fractions</para>
+      <para id="id1170864540657">1.1 Missing numbers: 10; 1; one-tenth</para>
+      <para id="id1170851944793">1.2 Calculator answers: 10; 1; 0,1</para>
+      <para id="id5672214">0,1 means one-tenth</para>
+      <para id="id3604915">2.1</para>
+      <table id="id1170853417952" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>x 1 000</entry>
+              <entry>x 100</entry>
+              <entry>x 10</entry>
+              <entry>x 1</entry>
+              <entry>x 0,1</entry>
+            </row>
+            <row>
+              <entry>(a)</entry>
+              <entry>1 </entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>(b)</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>0</entry>
+              <entry>1</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>(c)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>8</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>(d)</entry>
+              <entry/>
+              <entry/>
+              <entry>3</entry>
+              <entry>1</entry>
+              <entry>7</entry>
+            </row>
+            <row>
+              <entry>(e)</entry>
+              <entry/>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170852945409">2.2 (b) 4 x 1 000 + 6 x 100 + 0 x 10 + 1 x 1 + 9 x 0,1</para>
+      <para id="id4502804">(c) 0 x 1 000 + 0 x 100 + 0 x 10 + 8 x 1 + 5 x 0,1 or just: 8 x 1 + 5 x 0,1</para>
+      <para id="id1170856180000">(d) 0 x 1 000 + 0 x 100 + 3 x 10 + 1 x 1 + 7 x 0,1 or just: 3 x 10 + 1 x 1 + 7 x 0,1</para>
+      <para id="id3217639">(e) 0 x 1 000 + 4 x 100 + 5 x 10 + 6 x 1 + 2 x 0,1 or just: 4 x 100 + 5 x 10 + 6 x 1 + 2 x 0,1</para>
+      <para id="id1170855931235">ACTIVITY 2: comparing decimal fractions</para>
+      <para id="id1170856719315">1.1 &lt; </para>
+      <para id="id841067">1.2  </para>
+      <para id="id3619863">1.3 &lt; </para>
+      <para id="id4922897">1.4 &lt; </para>
+      <para id="id1170856021423">1.5  </para>
+      <para id="id5707060">1.6 &lt;</para>
+      <para id="id3925542">2. Encircled number: 49,1</para>
+      <para id="id1170858378807">3.1  10,9  </para>
+      <para id="id1170856155980">3.2 5,4  </para>
+      <para id="id1170853243989">3.3 5,9  </para>
+      <para id="id8244502">3.4 8,2</para>
+      <para id="id5739120">3.5  7  </para>
+      <para id="id1170865631015">3.6 99,1  </para>
+      <para id="id3333804">3.7 5,9  </para>
+      <para id="id1170864439533">3.8 9,9</para>
+      <para id="id1170856367596"/>
+      <para id="id5407265">ACTIVITY 3: converting from fractions to decimal fractions and vice versa</para>
+      <para id="id2093780">1. Discussion</para>
+      <para id="id1170857048716">2. With a calculator</para>
+      <list id="id5789930" list-type="bulleted">
+        <item>0,75  </item>
+        <item>2.2 0,4  </item>
+        <item>2.3 0,6  </item>
+        <item>2.4 0,8</item>
+      </list>
+      <para id="id1170856322018">2.5 0,8  </para>
+      <para id="id7912301">2.6 0,25</para>
+      <para id="id7260740">3. 0,33333</para>
+      <para id="id1170855636938">4.</para>
+      <table id="id3986837" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Fraction</entry>
+              <entry>Fraction as tenths</entry>
+              <entry>Decimal fraction</entry>
+            </row>
+            <row>
+              <entry>half</entry>
+              <entry>Five tenths</entry>
+              <entry>0,5</entry>
+            </row>
+            <row>
+              <entry>One-third</entry>
+              <entry>Can’t</entry>
+              <entry>0,3333</entry>
+            </row>
+            <row>
+              <entry>Two-thirds</entry>
+              <entry>Can’t</entry>
+              <entry>0,6666</entry>
+            </row>
+            <row>
+              <entry>One-quarter</entry>
+              <entry>Can’t; </entry>
+              <entry>0,25</entry>
+            </row>
+            <row>
+              <entry>Three-quarters</entry>
+              <entry>Can’t; </entry>
+              <entry>0,75</entry>
+            </row>
+            <row>
+              <entry>One-fifth</entry>
+              <entry>Two-tenths</entry>
+              <entry>0,2</entry>
+            </row>
+            <row>
+              <entry>Two-fifths</entry>
+              <entry>Four-tenths</entry>
+              <entry>0,4</entry>
+            </row>
+            <row>
+              <entry>Three-fifths</entry>
+              <entry>Six-tenths</entry>
+              <entry>0,6</entry>
+            </row>
+            <row>
+              <entry>Four-fifths</entry>
+              <entry>Eight-tenths</entry>
+              <entry>0,8</entry>
+            </row>
+            <row>
+              <entry>One-sixth</entry>
+              <entry>Can’t</entry>
+              <entry>0,1666</entry>
+            </row>
+            <row>
+              <entry>One-eighth</entry>
+              <entry>Can’t; </entry>
+              <entry>0,125</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6950632" list-type="bulleted">
+        <item>0,333</item>
+        <item>0,666</item>
+      </list>
+      <section id="id6483223">
+        <title>TEST YOUR PROGRESS</title>
+        <para id="id5795674">1.1 442</para>
+        <para id="id3760175">1.2 17</para>
+        <para id="id1170854778871">2. one and one-tenth or 1,1 sausage rolls</para>
+        <para id="id2171889">3. one and two-tenths or 1 and a fifth sausage rolls (or 1,2)</para>
+        <para id="id1170854932940">4. two and a quarter mugs</para>
+        <list id="id1170854665356" list-type="bulleted">
+          <item>6 x 10 + 4 x 1 + 8 x 0,1</item>
+          <item>3 x 100 + 4 x 10 + 1 x 1 + 2 x 0,1</item>
+        </list>
+        <list id="id5584003" list-type="bulleted">
+          <item>3,8 </item>
+          <item>1,3 </item>
+          <item>5,25</item>
+          <item>4,5</item>
+        </list>
+        <list id="id4942128" list-type="bulleted">
+          <item>&lt;</item>
+          <item>&lt;</item>
+        </list>
+        <list id="id3335324" list-type="bulleted">
+          <item>46</item>
+          <item>9,9</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,950 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Common fractions with different denominators and numerators</title>
+  <metadata>
+  <md:content-id>m30502</md:content-id><md:title>Common fractions with different denominators and numerators</md:title>
+  <md:abstract/>
+  <md:uuid>75c5b491-10c1-420e-b54b-22675fd0a31a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3819825">
+      <title>MATHEMATICS</title>
+      <para id="para-id3819825">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169964449906">
+      <title>Grade 4</title>
+      <para id="para-id1169964449906">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169962043377">
+      <title>NUMBERS, FEACTIONS, DECIMALS AND NUMBER PATTERNS</title>
+      <para id="para-id1169962043377">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169973506011">
+      <title>Module 7</title>
+      <para id="para-id1169973506011">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169964962426">
+      <title>COMMON FRACTIONS WITH DIFFERENT DENOMINATORS AND NUMERATORS</title>
+      <para id="id7916404">Activity 1:</para>
+      <para id="id1169961073841">To recognise common fractions with different denominators and numerators [LO 1.3]</para>
+      <para id="id1169964463744">When we break whole things into equal parts, we obtain fractions. Fractions are parts of wholes.</para>
+      <para id="id4840111">1. Read the following and fill in any missing number of parts:</para>
+      <table id="id9017105" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Number of equal parts into which the whole is broken</entry>
+              <entry>Name of fraction</entry>
+            </row>
+            <row>
+              <entry>2 equal parts</entry>
+              <entry>Halves</entry>
+            </row>
+            <row>
+              <entry>…….equal parts</entry>
+              <entry>Thirds</entry>
+            </row>
+            <row>
+              <entry>4 equal parts</entry>
+              <entry>Quarters</entry>
+            </row>
+            <row>
+              <entry>5 equal parts</entry>
+              <entry>Fifths</entry>
+            </row>
+            <row>
+              <entry>…….equal parts</entry>
+              <entry>Sixths</entry>
+            </row>
+            <row>
+              <entry>7 equal parts</entry>
+              <entry>Sevenths</entry>
+            </row>
+            <row>
+              <entry>8 equal parts</entry>
+              <entry>Eighths</entry>
+            </row>
+            <row>
+              <entry>9 equal parts</entry>
+              <entry>Ninths</entry>
+            </row>
+            <row>
+              <entry>…….equal parts</entry>
+              <entry>Tenths</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169965931688">2. Name the parts or COMMON FRACTIONS into which each bar has been divided:</para>
+      <para id="id1169962277710">Example:</para>
+      <table id="id8055356" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169966231146">It has been divided into quarters.</para>
+      <para id="id1169968695679">2.1 </para>
+      <table id="id1169962234738" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7207040">It has been divided into   </para>
+      <para id="id5772789">2.2</para>
+      <table id="id1169968861094" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6285470">It has been divided into  </para>
+      <para id="id4244193">2.3</para>
+      <table id="id1169962780892" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169964974362">It has been divided into  </para>
+      <para id="id6636839">2.4</para>
+      <table id="id1169966261014" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3814710">It has been divided into  </para>
+      <para id="id1169968920086">2.5</para>
+      <table id="id1169962943529" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3258047">It has been divided into  </para>
+      <para id="id9130426">2.6</para>
+      <table id="id7424975" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169962342730">It has been divided into  </para>
+      <para id="id1169962277652">TEST YOUR SKILL (Exercises 1 and 2 above)</para>
+      <para id="id1169966006549">1. </para>
+      <para id="id1169964185110">1.1 Divide the circle into two halves:</para>
+      <figure id="id8888152">
+        <media id="id8888152_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-2488.png" id="id8888152__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id1169969116333">1.2 Divide it into halves another way:</para>
+      <figure id="id6167947">
+        <media id="id6167947_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id6167947__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id1169962330933">1.3 In how many different ways can a circle be divided in half?</para>
+      <para id="id1169961682447"/>
+      <para id="id3264086">2.</para>
+      <para id="id1169966598757">2.1 Divide the rectangle into 3 thirds</para>
+      <figure id="id1169962255113">
+        <media id="id1169962255113_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-7361.png" id="id1169962255113__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <para id="id3826433">2.2 Divide it into thirds another way:</para>
+      <figure id="id1169966881591">
+        <media id="id1169966881591_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-7361.png" id="id1169966881591__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <para id="id1169961952160">2.3 How many equal parts are there if something has been divided into thirds?</para>
+      <para id="id1169962288831"/>
+      <para id="id1169964941334">3. How many equal parts are there in each of the following diagrams and what are the parts called?</para>
+      <table id="id2894739" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5447936">3.1   parts; called  </para>
+      <table id="id4118755" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6998334"/>
+      <para id="id9153045">3.2   parts; called  </para>
+      <para id="id8976285">4. Now shade in one half of 3.1 on the previous page, and one third of 3.2. Which is bigger: one half or one third?</para>
+      <para id="id8706279"/>
+      <para id="id1169964117962">5. Now look at the two bars below. The top bar shows    because </para>
+      <para id="id1169962318617"> there are    equal parts.</para>
+      <table id="id8313072" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry namest="c6" nameend="c7"/>
+              <entry/>
+              <entry/>
+              <entry namest="c10" nameend="c11"/>
+              <entry namest="c12" nameend="c13"/>
+              <entry namest="c14" nameend="c15"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+              <entry namest="c13" nameend="c14"/>
+              <entry namest="c15" nameend="c16"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169966375960">The bar below it shows    because there are   equal parts.</para>
+      <para id="id6408064">3. <emphasis effect="bold">HANDS ON! INDIVIDUAL WORK: RECOGNISING AND REPRESENTING NUMERATORS</emphasis></para>
+      <list id="id1169966235753" list-type="bulleted">
+        <item>The work on this page is for cutting out and folding. In this module you have a separate page containing shapes. Cut out all the shapes and follow the instructions below:</item>
+      </list>
+      <para id="id1169961053427">3.1 Cut out the triangle on your extra page. Fold it in half. Now open it out. Draw dotted lines on the fold. The dotted lines divide the triangle into two equal parts, or halves. Colour in one half. Now paste your cutout on top of the triangle printed below. Name the part that you coloured in.</para>
+      <para id="id1169971404434">
+        <figure id="id7370738">
+          <media id="id7370738_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 5-07fa.png" id="id7370738__onlineimage" height="311" width="311"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1169961563603">3.2 Cut out the circle on your extra copy. Fold it in half. Fold it in half again. Now open out the circle. Draw dotted lines on the folds. The dotted lines should divide the circle into four equal parts, quarters. Shade in three of them. Now paste your cutout on top of the circle printed below. Name the part that you coloured in.</para>
+      <figure id="id2672691">
+        <media id="id2672691_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-df60.png" id="id2672691__onlineimage" height="281" width="301"/>
+        </media>
+      </figure>
+      <figure id="id1169966863721">
+        <media id="id1169966863721_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-586e.png" id="id1169966863721__onlineimage" height="97" width="99"/>
+        </media>
+      </figure>
+      <para id="id7694758">3.3 Has this circle been divided into quarters?</para>
+      <para id="id1169962110740">Your answer:   </para>
+      <para id="id1169962350376">3.4 Cut out the rectangle. Fold it to make thirds. Now open it out. Draw dotted lines on the folds. The dotted lines should divide the rectangle into thirds. Shade in two of them. Do the same with the second rectangle, but try to fold it to make sixths. Also shade in two of them. Now paste your cutout on top of the rectangles printed below. Name the parts that you coloured in.</para>
+      <para id="id1169964465348"/>
+      <para id="id1169973161826">3.5 Cut out the bar. Fold it to make eighths. Now open it out. Draw dotted lines on the folds. The dotted lines should divide the bar into eight equal parts. Check that this is correct. Shade in two of them. Do the same with the second bar but fold it to make quarters. Also shade in two of them. Now paste your cutout on top of the bars printed below. Name the parts that you coloured in.</para>
+      <para id="id1169964004265">3.6 Now look at the bars, and use the signs: &lt; and  to complete the following on the page in your module:</para>
+      <list id="id1169968852558" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Two-eighths ___________two quarters</item>
+        <item>Three-eighths  ___________one-quarter</item>
+        <item>One-eighth  ___________one-quarter</item>
+        <item>Five-eighths  ___________three-quarters</item>
+        <item>Six-eighths  ___________two-quarters</item>
+        <item>Three-eighths  ___________two-quarters</item>
+      </list>
+      <para id="id1169966426498">SHAPES TO CUT OUT</para>
+      <figure id="id2406414">
+        <media id="id2406414_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-07fa.png" id="id2406414__onlineimage" height="311" width="311"/>
+        </media>
+      </figure>
+      <figure id="id1169962364919">
+        <media id="id1169962364919_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-df60.png" id="id1169962364919__onlineimage" height="281" width="301"/>
+        </media>
+      </figure>
+      <para id="id8024010">
+        <figure id="id7983427">
+          <media id="id7983427_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-7361.png" id="id7983427__onlineimage" height="178" width="236"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id1169962360519">
+        <media id="id1169962360519_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-7361.png" id="id1169962360519__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <para id="id1169963064580"/>
+      <para id="id4079668">Activity 2:</para>
+      <para id="id1169969079570">To recognise and describe reciprocal relationship, equivalence of division and fractions, and the properties of whole numbers [LO 1.12]</para>
+      <para id="id1169966540800">What are fractions? </para>
+      <para id="id1169968908326">We have said fractions are equal parts of a whole. Fractions are numbers. Twenty-five is a number; half is also a number.</para>
+      <list id="id1169966449203" list-type="bulleted">
+        <item>25 is not a 2 and a 5! 25 is twenty and five. Similarly we must think of a half as a number. It does not consist of a 1 and a 2; it is a half, a number. </item>
+        <item>All the bits of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> form a number. <emphasis effect="italics"/></item>
+        <item>We learnt that twenty-five could be written in words or with digits: 25.</item>
+        <item>Fractions can also be written in words or with digits: half or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>.</item>
+      </list>
+      <para id="id6725286">What is a half? We take a whole and divide it into two equal parts. We could take an apple and divide it equally between two girls: 12 =half</para>
+      <para id="id2472143"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> The line in the middle could mean  so 1  2</para>
+      <para id="id7803213">Half or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> means 1  2</para>
+      <list id="id1169964351276" list-type="bulleted">
+        <item>When we write fractions as numbers, the digit below tells us into how many parts the whole has been divided. The top digit tells us how many of those parts we are using.</item>
+      </list>
+      <equation id="id1169961372957">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1169965087221">How many of those parts are being used (Numerator)</para>
+      <para id="id7828466">How many parts the whole is divided into (Denominator)</para>
+      <para id="id1169964862952"><figure id="id1169962275854"><media id="id1169962275854_media" alt=""><image mime-type="image/png" src="../../media/graphics2-b545.png" id="id1169962275854__onlineimage" height="124" width="60"/></media></figure>1. Each of the following bars represents one whole.</para>
+      <para id="id3383739">1.1 This bar has been divided into fifths.</para>
+      <para id="id1169962267512">a) Draw coloured lines on it to show tenths:</para>
+      <table id="id2508980" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169962341164" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Shade 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of it.</item>
+      </list>
+      <para id="id8711396">1.2 This bar shows twelfths.</para>
+      <para id="id1169967734730">a) Draw coloured lines on it to show quarters.</para>
+      <table id="id1169959915575" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4253590">b) Shade 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> of it.</para>
+      <para id="id1169962292460">1.3 This bar shows fourteenths.</para>
+      <para id="id1169966608930">a) Draw coloured lines on it to show sevenths.</para>
+      <table id="id1169965897554" summary="">
+        <tgroup cols="14">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169967730498">b) Shade 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {7} } } {}</m:annotation></m:semantics></m:math> of it.</para>
+      <para id="id3619259">Activity 3:</para>
+      <table id="id1169964231684" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>To solve problems involving equal sharing with remainders [LO 1.8] </entry>
+            </row>
+            <row>
+              <entry>To recognise and use equivalent forms of common fractions [LO 1.5]</entry>
+            </row>
+            <row>
+              <entry>To recognise and represent common fractions in order to describe and compare them in writing and diagram form [LO 1.3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169965086277">GROUP WORK</para>
+      <para id="id1169964823899">1. Read the following little story, then complete the questions and instructions about it. You may work in a group or with a friend if your educator agrees.</para>
+      <para id="id4372656">When the bell rang for break, Khanyi and Reyhana ran to their favourite sunny corner of the playground. They sat down and opened their lunch boxes.</para>
+      <para id="id1169958975586">“Oh my!” said Khanyi, “I’ve got six Marie biscuits today! I can’t eat six biscuits! I tell you what, Reyhana, let’s share our lunches equally.”</para>
+      <para id="id1169962318301">“That’s a good idea,” said Reyhana “I’ve got those bits of dried fruit. You know, they mash up the dried fruit, roll it in sugar and cut it into bite size. My mother has given me nine pieces!”</para>
+      <para id="id3832169">Just then two of their friends ran up and asked if they might join them. “Of course!” said Reyhana. “We’re going to share our lunches equally. This will be fun. What have you got?”</para>
+      <para id="id8597746">Jill sat down and opened her box. “I’ve got two of those cheeses that come in a round box,” she said. “You know, they are triangles of cheese done up in silver paper.”</para>
+      <para id="id5782562">Themba said, “I think my mother was in a hurry today! She cut up an apple into eight pieces and gave them to me for my lunch.”</para>
+      <para id="id1169966395469">“That’s good,” said Khanyi, “There are four of us, so each of us can have two pieces of your apple. Now let’s share my six biscuits.”</para>
+      <para id="id3804049">Questions and instructions concerning the story.</para>
+      <list id="id1169964137247" list-type="bulleted">
+        <item>There were four girls. Colour in how much biscuit ONE girl received.</item>
+      </list>
+      <figure id="id2775580">
+        <media id="id2775580_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id2775580__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id4242469">
+        <media id="id4242469_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 21-2488.png" id="id4242469__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id1169969179492">
+        <figure id="id8776123">
+          <media id="id8776123_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 22-2488.png" id="id8776123__onlineimage" height="138" width="140"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id7869918">
+        <media id="id7869918_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 23-2488.png" id="id7869918__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id9103120">
+        <media id="id9103120_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 24-2488.png" id="id9103120__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id1169964453596">
+        <media id="id1169964453596_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 25.png" id="id1169964453596__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id2594822">1.2 How much biscuit did each girl receive?</para>
+      <para id="id1169963754956">1.3 Khanyi said each girl could have two pieces of apple. Discuss with a friend or group: how much of the whole apple did each girl receive? Now write your answer.</para>
+      <para id="id1169966001251">1.4 There were nine pieces of sugared fruit. How many whole pieces did each girl receive?</para>
+      <para id="id1169970923701">1.5 How many pieces of dried fruit were left? Make a drawing to show how the girls would share this equally.</para>
+      <para id="id1169969048198">1.6 Altogether, how much dried fruit did each girl receive?</para>
+      <para id="id1169962319255">1.7 There were two triangular cheeses and four girls. Discuss with a friend or group how the girls would share these equally and draw in dotted lines on the diagrams below to show how they did it.</para>
+      <figure id="id1169962221227">
+        <media id="id1169962221227_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 26-07fa.png" id="id1169962221227__onlineimage" height="200" width="200"/>
+        </media>
+      </figure>
+      <figure id="id1169962689839">
+        <media id="id1169962689839_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 27-07fa.png" id="id1169962689839__onlineimage" height="200" width="200"/>
+        </media>
+      </figure>
+      <para id="id1169968798150">1.8 What fraction of one cheese did each girl receive?</para>
+      <para id="id1169964459789">1.9 What fraction of all the cheese (two cheeses) did each girl receive?</para>
+      <para id="id1169959954802">Just then the bell rang for the end of break. When they were settled in the classroom, their educator said, “Today we are going to consider ‘Equal Sharing’ and you may draw how to share things equally.” Of course, our four friends found the lesson very easy and their educator was pleased with them. She wondered how they were able to do the work so quickly and correctly. Only after the lesson did they explain how they had spent their break-time!</para>
+      <para id="id1169968893526">TEST YOUR SKILLS: FRACTIONS IN DIAGRAMMATIC FORM; EQUAL SHARING [LO 1.3, 1.5, 1.8]</para>
+      <para id="id1169962243543">See if you can complete the work that the educator gave her class:</para>
+      <list id="id1169966694903" list-type="enumerated" number-style="arabic">
+        <item>Share 2 Marie biscuits equally amongst 5 learners. Draw lines on the circles below to show how you would do this and then write down how much each learner received altogether.</item>
+      </list>
+      <figure id="id8637592">
+        <media id="id8637592_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 28-2488.png" id="id8637592__onlineimage" height="118" width="119"/>
+        </media>
+      </figure>
+      <figure id="id1169970963511">
+        <media id="id1169970963511_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 29.png" id="id1169970963511__onlineimage" height="118" width="119"/>
+        </media>
+      </figure>
+      <para id="id6916503">Answer: _____________________</para>
+      <para id="id1169961962129"/>
+      <list id="id1169962336176" list-type="enumerated" number-style="arabic">
+        <item>Share 5 Provita biscuits equally between 2 girls. Draw lines on the rectangles below to show how they were shared equally between the 2 girls. Then write down how much each girl received altogether.</item>
+      </list>
+      <para id="id1169966133878">Answer:________________________</para>
+      <list id="id1169966780052" list-type="enumerated" number-style="arabic">
+        <item>Three learners want to share a tin of Coke equally. They each have a paper cup. How much of the Coke will each learner receive? Draw dotted lines on the can below to show how much each learner will get. Then write down what part of the Coke each learner will receive.</item>
+      </list>
+      <para id="id1169966572067"/>
+      <para id="id7930238"/>
+      <para id="id6503259">Answer: …………………………………………….</para>
+      <para id="id6795753">4. Share 2 loaves of bread equally amongst 3 workers. How much will each worker receive? (You may draw if it helps.)</para>
+      <para id="id1169962078989">5. Share 7 sausage rolls equally amongst 6 boys. How much sausage roll will each boy receive? (You may draw if it helps.)</para>
+      <para id="id4219835">6. Share 8 sandwiches equally amongst 3 boys. How much will each boy receive? (You may draw if it helps.)</para>
+      <para id="id1169964308056">7. Share 8 bananas equally amongst 7 boys. How much will each boy receive? (You may draw if it helps.)</para>
+      <para id="id1169965146068">8. Share 17 slices of polony equally amongst 8 boys. How much will each boy receive? (You may use the drawing if it helps.)</para>
+      <figure id="id3281489">
+        <media id="id3281489_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 35.png" id="id3281489__onlineimage" height="126" width="129"/>
+        </media>
+      </figure>
+      <para id="id1169967713073">Answer: ………………………………….</para>
+    </section>
+    <section id="id1169966075948">
+      <title>Assessment</title>
+      <table id="id5448580" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.1 counts forwards and backwards in a variety of intervals;</entry>
+            </row>
+            <row>
+              <entry>1.3 recognises and represents the following numbers in order to describe and compare them: common fractions with different denominators, common fractions in diagrammatic form, decimal fractions and multiples of single-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.3.2 common fractions with different denominators, including halves, thirds, quarters, fifths, sixths, sevenths and eighths;</entry>
+            </row>
+            <row>
+              <entry>1.3.3 common fractions in diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>1.3.4 decimal fractions of the form 0,5; 1,5 and 2,5; etc., in the context of measurement; </entry>
+            </row>
+            <row>
+              <entry>1.3.6 multiples of single-digit numbers to at least 100;</entry>
+            </row>
+            <row>
+              <entry>1.5 recognises and uses equivalent forms of the numbers including common fractions and decimal fractions;</entry>
+            </row>
+            <row>
+              <entry>1.5.1 common fractions with denominators that are multiples of each other;</entry>
+            </row>
+            <row>
+              <entry>1.5.2 decimal fractions of the form 0,5; 1,5 and 2,5, etc., in the context of measurement;</entry>
+            </row>
+            <row>
+              <entry>1.7 solves problems that involve comparing two quantities of different kinds (rate);</entry>
+            </row>
+            <row>
+              <entry>1.7.1 comparing two or more quantities of the same kind (ratio);</entry>
+            </row>
+            <row>
+              <entry>1.8 estimates and calculates by selecting and using operations appropriate to solving problems that involve addition of common fractions, multiplication of at least whole 2-digit by 2-digit numbers, division of at least whole 3-digit by 1-digit numbers and equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.8.3 addition of common fractions in context;</entry>
+            </row>
+            <row>
+              <entry>1.8.6 equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.9 performs mental calculations involving:</entry>
+            </row>
+            <row>
+              <entry>1.9.2 multiplication of whole numbers to at least 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.12 recognises, describes and uses:, and </entry>
+            </row>
+            <row>
+              <entry>1.12.1 the reciprocal relationship between multiplication and division (e.g. if 5 x 3 = 15 then 15 ÷ 3 = 5 and 15 ÷ 5 = 3;</entry>
+            </row>
+            <row>
+              <entry>1.12.2 the equivalence of division and fractions (e.g. 1 ÷ 8 = ⅛);</entry>
+            </row>
+            <row>
+              <entry>1.12.3 the commutative, associative and distributive properties with whole numbers.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1169962544220">
+      <title>Memorandum</title>
+      <para id="id1169971402349">ACTIVITY 1– recognising common fractions</para>
+      <para id="id1169962628587">1. Missing numbers: …; 3; 6; 10</para>
+      <para id="id1169965089491">2. Common fractions</para>
+      <para id="id4479018">2.1 fifths </para>
+      <para id="id1169966420641">2.2 sixths </para>
+      <para id="id8565969">2.3 sevenths </para>
+      <para id="id8411047">2.4 eighths</para>
+      <para id="id8471815">2.5 ninths </para>
+      <para id="id1169962240527">2.6 tenths</para>
+      <para id="id7065735">TEST YOUR SKILL</para>
+      <list id="id8934839" list-type="bulleted">
+        <item>and 1.2 Circle in half vertically; circle in half horizontally</item>
+      </list>
+      <para id="id1169962365673">2.1 and 2.2 Rectangle divided into thirds horizontally and vertically.</para>
+      <para id="id1169973506025">2.3 3</para>
+      <para id="id6639796">3.1 2; halves 3.2 3 thirds</para>
+      <para id="id1169963059783">4. Shading; one half is bigger than one third.</para>
+      <para id="id1169966377307">5. tenths; 10 equal parts; eighths; 8 equal parts</para>
+      <para id="id1145020">3. HANDS ON</para>
+      <para id="id2760594">3.1 Triangle folded in half; half coloured in.</para>
+      <para id="id1169966467340">3.2 Circle folded in quarters; three-quarters coloured in.</para>
+      <para id="id1169964497478">3.3 No</para>
+      <para id="id1169961406631">3.4 Rectangle folded into thirds; two-thirds shaded; second rectangle folded into sixths; two-sixths shaded.</para>
+      <para id="id1169964804866">3.5 Bar folded into eighths; two-eighths shaded; second bar folded into quarters; two-quarters shaded.</para>
+      <para id="id1169962900134">3.6 (a) &lt; (b)  (c) &lt; (d) &lt; (e)  (f) &lt;</para>
+      <para id="id1169962251285"> ACTIVITY 2: the equivalence of division and fractions</para>
+      <para id="id1169963807214">1.1 (a) and (b)</para>
+      <table id="id1169964451276" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169962346780">1.2 (a) and (b)</para>
+      <table id="id8930010" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169962223315">1.3 (a) and (b)</para>
+      <para id="id9038467"/>
+      <table id="id1169964439944" summary="">
+        <tgroup cols="14">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169966440317">ACTIVITY 3: problems</para>
+      <para id="id1169973505842">1.1 six biscuits; one and a half shaded</para>
+      <para id="id1169962323895">1.2 one and a half</para>
+      <para id="id1169971424867">1.3 two-eighths / one-quarter</para>
+      <para id="id1169969220507">1.4 2</para>
+      <para id="id1169968839049">1.5 </para>
+      <table id="id8233806" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169969192584">1.6 2 and a quarter</para>
+      <list id="id1169961892115" list-type="bulleted">
+        <item>two triangles each halved</item>
+        <item>half</item>
+        <item>quarter</item>
+      </list>
+      <section id="id9200327">
+        <title>TEST YOUR SKILLS</title>
+        <list id="id7332759" list-type="enumerated" number-style="arabic">
+          <item>two circles each divided into fifths; two-fifths</item>
+          <item>one rectangle is halved; 2 and a half</item>
+          <item>a cylinder divided into thirds; one-third</item>
+          <item>two-thirds</item>
+          <item>one and a sixth</item>
+          <item>two and two-thirds</item>
+          <item>one and a seventh</item>
+        </list>
+        <para id="id2551872">8. two and an eighth</para>
+      </section>
+    </section>
+  </content>
+</document>

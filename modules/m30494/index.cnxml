@@ -1,0 +1,955 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The place value of digits in whole numbers</title>
+  <metadata>
+  <md:content-id>m30494</md:content-id><md:title>The place value of digits in whole numbers</md:title>
+  <md:abstract/>
+  <md:uuid>8b79c0e4-3714-423e-9cb1-dc318b44df82</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171035315694">
+      <title>MATHEMATICS</title>
+      <para id="para-id1171035315694">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171033123359">
+      <title>Grade 4</title>
+      <para id="para-id1171033123359">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8936120">
+      <title>WHOLE NUMBERS AND THEIR RELATIONSHIPS</title>
+      <para id="para-id8936120">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171038328430">
+      <title>Module 2</title>
+      <para id="para-id1171038328430">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8589864">
+      <title>THE PLACE VALUE OF DIGITS IN WHOLE NUMBERS </title>
+      <para id="id7166999">Activity:</para>
+      <para id="id1171033123124">Recognise the place value of digits in whole numbers [LO 1.4]</para>
+      <para id="id1171033123215">Recognise and represent whole numbers in order to describe and compare them [LU 1.3]</para>
+      <para id="id1171038184831">OUR MODERN NUMBER SYSTEM: THE DECIMAL SYSTEM</para>
+      <list id="id1171040452288" list-type="bulleted">
+        <item>Now that we have done oral counting exercises and mental calculations, we think about <emphasis effect="italics">the meaning</emphasis> of our wonderful number system.</item>
+        <item>See what Johnny says about Susie. This sounds strange doesn’t it?</item>
+      </list>
+      <figure id="id3311572">
+        <media id="id3311572_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-3fee.png" id="id3311572__onlineimage" height="258" width="489"/>
+        </media>
+      </figure>
+      <list id="id1171033122523" list-type="bulleted">
+        <item>1+ 1 is not eleven! But look at Roman numerals: I + I = II. Then it would be correct, because II is the way the Romans wrote 2. In Activity 5 we shall learn more about Roman numerals.</item>
+      </list>
+      <para id="id4090696">1. Now let’s look at a bigger number. Just what does the number 1 111 mean, and why? Try to write down what it means: </para>
+      <para id="id1171038118526">One might say this is what it means:</para>
+      <para id="id1171038278403">
+        <figure id="id1171033125902">
+          <media id="id1171033125902_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-a44d.png" id="id1171033125902__onlineimage" height="148" width="528"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1171046050774">2. What number do you think this diagram represents? </para>
+      <figure id="id8930577">
+        <media id="id8930577_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-1f50.png" id="id8930577__onlineimage" height="203" width="588"/>
+        </media>
+      </figure>
+      <list id="id1171035271532" list-type="bulleted">
+        <item>Our decimal system works in groups of loose ones (units), tens, hundreds, thousands and ten thousands. We can have up to nine loose blocks. If we get one more, we say we have ten blocks/ 10 that is, one group of ten and nothing left loose. The “0” fills the empty place to say there is nothing left. With blocks, it would look like this:</item>
+      </list>
+      <figure id="id1171036382224">
+        <media id="id1171036382224_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-f570.png" id="id1171036382224__onlineimage" height="147" width="460"/>
+        </media>
+      </figure>
+      <list id="id1171040452610" list-type="bulleted">
+        <item>Because we cannot always draw blocks, we use the POSITION of the digits to tell us the size of the group. So we have place value:</item>
+      </list>
+      <table id="id1171040448678" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>THOUSANDS</entry>
+              <entry>HUNDREDS</entry>
+              <entry>TENS</entry>
+              <entry>UNITS</entry>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry>100</entry>
+              <entry>10</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>10 x 10 x 10</entry>
+              <entry>10 x 10</entry>
+              <entry>10</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171036406777">Recap: Our Decimal Number System</para>
+      <para id="id1171038102311">In our number system we have nine symbols and “0”. We use these symbols, 1; 2; 3; 4; 5; 6; 7; 8; 9 and 0 to make any and all the numbers we need. We use the position of the digit in the number to indicate its value. So in the number 2 768 the 7 means 700 because of where it is in the number.</para>
+      <figure id="id1171043669174">
+        <media id="id1171043669174_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-fb91.png" id="id1171043669174__onlineimage" height="186" width="493"/>
+        </media>
+      </figure>
+      <para id="id4510214">If there are no thousands (or digits in the other columns) we use 0 as a place holder.</para>
+      <para id="id1171036706727">Note: the 0 cannot be left out. If we left out the 0 the value of the whole number would change (e.g. 10 291 would become 1 291) so the 0 is very important.</para>
+      <list id="id1171043961723" list-type="enumerated" number-style="arabic">
+        <item>Now write each of the numbers below in EXPANDED NOTATION. The one at the top of the page looks like this: 2 768 = 2 000  700  60  8 </item>
+      </list>
+      <para id="id1171043705309">Now complete the ones below:</para>
+      <table id="id5796497" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>2 768 = 2 000  700  60  8</entry>
+            </row>
+            <row>
+              <entry>7 834 =</entry>
+            </row>
+            <row>
+              <entry>2 056 =</entry>
+            </row>
+            <row>
+              <entry>8 503 =</entry>
+            </row>
+            <row>
+              <entry>1 940 =</entry>
+            </row>
+            <row>
+              <entry>16 473 =</entry>
+            </row>
+            <row>
+              <entry>25 809 =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2722120"/>
+      <para id="id5841444">Note also:</para>
+      <para id="id6155091">When we write big numbers we leave a space between the thousands and the hundreds. This makes it easier to read the number. Key 10 403 into your calculator. Unfortunately the calculator does not leave this space. Do you see it is not so easy to read this number on the calculator when there is no space between the thousands and the hundreds? Remember to leave the space in the correct place when you are writing big numbers.</para>
+      <para id="id1171043546967">MAKING NUMBERS AND ARRANGING THEM IN ORDER</para>
+      <list id="id1171034492557" list-type="bulleted">
+        <item>We have seen how each digit in a number has a value, for example:</item>
+      </list>
+      <para id="id7724246">3 967 = 3 000  900  60  7.</para>
+      <para id="id1171034249832">It can be written in columns like this:</para>
+      <table id="id1171040472239" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>THOUSANDS1 000</entry>
+              <entry>HUNDREDS100</entry>
+              <entry>TENS10</entry>
+              <entry>UNITS1</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>9</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6745200">Because there are: </para>
+      <para id="id1171036763065">3 × 1 000  9 × 100  6 × 10  7</para>
+      <para id="id6704789">4. Now create the largest and the smallest numbers with the digits: 2; 8; 4; 1. Write them and two other numbers, still using only the digits 2; 8; 4; 1 in columns:</para>
+      <para id="id4930965">Which of your numbers above is the largest number? </para>
+      <list id="id7690237" list-type="bulleted">
+        <item>Now write your numbers. Begin with the largest, then the next largest, then the next largest, until you reach the smallest. This is called DESCENDING ORDER. (Moses DESCENDED from the mountain)</item>
+      </list>
+      <para id="id6625277"/>
+      <para id="id1171040674063"><emphasis effect="bold">D</emphasis>escending order is when you start with the largest number and go<emphasis effect="bold"> D</emphasis>own</para>
+      <para id="id7694128"><emphasis effect="bold">Example:</emphasis> 10; 9; 8; 7; 6; 5; 4; 3; 2; 1</para>
+      <para id="id1171038228450">4.2 Ascending order is when you start with the smallest and go up! Now write your numbers in ascending order. Remember to begin with the smallest:</para>
+      <para id="id1171034497415">4.3 Write these numbers from the smallest to the largest:</para>
+      <para id="id1171035505742">6 095; 9 065; 6 059; 9 506; 5 069 </para>
+      <para id="id1171036681776">4.4 Write these numbers from the largest to the smallest:</para>
+      <para id="id5349079">8 315; 3 851; 5 318; 1 853; 8 513</para>
+      <para id="id1632141">5. <emphasis effect="bold">EVEN AND ODD NUMBERS</emphasis></para>
+      <para id="id6691573">5.1 Study the number line below:</para>
+      <figure id="id1171037182409">
+        <media id="id1171037182409_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-e9f2.png" id="id1171037182409__onlineimage" height="41" width="571"/>
+        </media>
+      </figure>
+      <para id="id1171040355054">All the numbers that have been written there are even numbers. They can be shared equally between two friends.</para>
+      <para id="id1171034496197">5.2 Between the even numbers are odd numbers. They cannot be kept whole and shared equally between two people. Fill in the names of the odd numbers on the number line below:</para>
+      <figure id="id3223489">
+        <media id="id3223489_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-e9f2.png" id="id3223489__onlineimage" height="41" width="571"/>
+        </media>
+      </figure>
+      <para id="id7700502">TEST YOUR KNOWLEDGE of odd and even numbers</para>
+      <para id="id6218063">a. List the even numbers between 2 800 and 2 812</para>
+      <para id="id1171034214583">b. Which odd number is just before 10 000?</para>
+      <para id="id3366825">c. What is the first even number after 2 998?</para>
+      <para id="id7178193">6. <emphasis effect="bold">LARGER AND SMALLER</emphasis></para>
+      <para id="id6156415">LARGER THAN / SMALLER THAN</para>
+      <para id="id1171040715247">In Mathematics, this sign &gt; means: LARGER THAN or GREATER THAN:</para>
+      <para id="id6277228">This sign &lt; means: SMALLER THAN or LESS THAN</para>
+      <para id="id1171035280394">(Remember, the crocodile always opens his mouth towards the largest number because he is so hungry!)</para>
+      <figure id="id1171035442230">
+        <media id="id1171035442230_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-7b56.png" id="id1171035442230__onlineimage" height="134" width="212"/>
+        </media>
+      </figure>
+      <para id="id1171034201040">500 &gt; 400</para>
+      <para id="id4338410">or 500 is greater than 400</para>
+      <para id="id7695132">&lt; 500</para>
+      <para id="id1171035174832">or 400 is less than 500</para>
+      <para id="id6772402">TEST YOUR UNDERSTANDING OF THESE SIGNS:</para>
+      <list id="id4361323" list-type="bulleted">
+        <item>Fill in the correct sign from : &lt;; =; &gt;</item>
+      </list>
+      <para id="id6577416">a) 0  4 * 11 －  3</para>
+      <para id="id4593458">b) 13 － 6 * 0  7</para>
+      <para id="id1171035268228">c) 2  7 * 14 － 8</para>
+      <para id="id4722999">d) 13 － 5 * 7  4</para>
+      <para id="id4414891">6.2 Write down the missing number when you count in tens: </para>
+      <para id="id7211465">  1 470 &lt; …… ………….. &lt; 1 490.</para>
+      <para id="id6583543">7. <emphasis effect="bold">CALCULATOR GAME</emphasis></para>
+      <para id="id8576282">Now you may play another calculator game. Try to puzzle out what the learners are doing this time. Then play the game with your friend.</para>
+      <figure id="id7293696">
+        <media id="id7293696_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-54ae.png" id="id7293696__onlineimage" height="271" width="595"/>
+        </media>
+      </figure>
+      <para id="id7225861">Paul keyed in 187. He keyed in one operator and pressed = and the number 1 870 appeared on the screen. What operator did he key in? Yes, it was: X 10 because 187 X 10 = 1 870.</para>
+      <para id="id3893750">What operator did Reyhana key in? Yes, it was also X 10 because 1 870 X 10 = 18 700.</para>
+      <para id="id1171034468989">8. Now see if you can complete this table without a calculator. Then check your answers  with a friend. (If you get stuck you may use a calculator.)</para>
+      <table id="id2967514" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Number</entry>
+              <entry>Operator</entry>
+              <entry>Answer</entry>
+            </row>
+            <row>
+              <entry>58</entry>
+              <entry>X 100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>145</entry>
+              <entry>X 10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>309</entry>
+              <entry/>
+              <entry>3 090</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry> 10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry/>
+              <entry>10 000</entry>
+            </row>
+            <row>
+              <entry>520</entry>
+              <entry/>
+              <entry>52</entry>
+            </row>
+            <row>
+              <entry>1 690</entry>
+              <entry> 10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry> 100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10 000</entry>
+              <entry> 10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171038040020">1<emphasis effect="underline">6</emphasis> 329</para>
+      <para id="id1206708">Hello! I am called Six Thousand. I am part of a very large number, which is: Sixteen thousand three hundred and twenty-nine.</para>
+      <para id="id5378878">9. Now write down <emphasis effect="bold">the value</emphasis> of the digit that has been printed in bold type:</para>
+      <para id="id1171035673970"><emphasis effect="bold">3</emphasis> 421 </para>
+      <para id="id7677407"><emphasis effect="bold">8</emphasis> 035 </para>
+      <para id="id4071725">9<emphasis effect="bold">2</emphasis>6</para>
+      <para id="id3222964"><emphasis effect="bold">1</emphasis>4 051</para>
+      <para id="id4404103"/>
+      <para id="id1171035173500">Now let us look at the number 2 <emphasis effect="bold">8</emphasis>4<emphasis effect="bold">8</emphasis>.</para>
+      <para id="id1171040700989">The 8 on the<emphasis effect="bold"> left</emphasis> means 800. The 8 on the<emphasis effect="bold"> right</emphasis> means 8.</para>
+      <para id="id1171040521515">What is <emphasis effect="italics">the difference between</emphasis><emphasis effect="italics">the values</emphasis> of the two 8s?</para>
+      <para id="id1418344">800 － 8 = 792</para>
+      <para id="id1171034458201">10. Now <emphasis effect="bold">calculate the difference between the value</emphasis>s of the numbers that have been made bold and underlined:</para>
+      <para id="id1171038222861"><emphasis effect="bold">7</emphasis> 3<emphasis effect="bold">7</emphasis>4</para>
+      <para id="id1171036712068">6<emphasis effect="bold"> 99</emphasis>5 </para>
+      <para id="id6342900"><emphasis effect="bold">3</emphasis> 02<emphasis effect="bold">3</emphasis></para>
+      <para id="id3104778"><emphasis effect="bold">5 5</emphasis>19</para>
+      <para id="id1171036562112"><emphasis effect="bold">1</emphasis>0 0<emphasis effect="bold">1</emphasis>0</para>
+      <para id="id1171035690697">11. Now you may play a “place value” game with a friend and a calculator. This will  strengthen your understanding of “place value”. It is important to play this game. </para>
+      <para id="id7235406">See if you can learn this game by reading what the two learners said:</para>
+      <para id="id4704639">
+        <figure id="id1171035487328">
+          <media id="id1171035487328_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 10-4135.png" id="id1171035487328__onlineimage" height="260" width="634"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1171035218575">
+        <emphasis effect="bold">The game continues until all the digits have been replaced by 0. </emphasis>
+      </para>
+      <para id="id1171035643154">12. Now that you have played the “place value” game, try to do this exercise. Replace the digit that has been made bold (dark) with 0. (The first two have been done for you.)</para>
+      <table id="id1171036917148" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Number, bold digit to be replaced by 0</entry>
+              <entry>My suggestion: what to do.</entry>
+              <entry>Calculator answer</entry>
+              <entry>Π</entry>
+              <entry>ρ</entry>
+              <entry>What I should have done:</entry>
+            </row>
+            <row>
+              <entry>1 35<emphasis effect="bold">6</emphasis></entry>
+              <entry>－ 6 =</entry>
+              <entry>1 350</entry>
+              <entry>Π</entry>
+              <entry>-</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">2</emphasis><emphasis effect="underline"/>519</entry>
+              <entry>－ 200 =</entry>
+              <entry>2 319</entry>
+              <entry/>
+              <entry>ρ</entry>
+              <entry>－ 2 000 =</entry>
+            </row>
+            <row>
+              <entry>6 <emphasis effect="bold">7</emphasis>23</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15 6<emphasis effect="bold">3</emphasis>8</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">1</emphasis>3 642</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1<emphasis effect="bold">7</emphasis> 389</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">5</emphasis>90</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14 84<emphasis effect="italics">3</emphasis></entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7<emphasis effect="underline"/><emphasis effect="bold">3</emphasis>94</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171040250232">1.3 Look at the first one again. Would it be correct to say  4? Yes, that is correct: 1 35<emphasis effect="bold">6</emphasis>   4 = 1 36<emphasis effect="bold">0</emphasis> so we have replaced the 6 with a 0!</para>
+      <para id="id4203861"/>
+      <para id="id8414327">TEST YOUR SKILLS: PLACE VALUE and DESCRIBING AND COMPARING WHOLE NUMBERS</para>
+      <para id="id1171034287567">Now that you have learnt all about the importance of place value see if you can use this know ledge to complete the following exercises:</para>
+      <para id="id3003653">1. Write down the number that consists of:</para>
+      <para id="id7735320">6 000  0  20  9 </para>
+      <para id="id1171035163986"/>
+      <para id="id1171034214376">2.1 Write the largest possible whole number with the digits:</para>
+      <para id="id3701918">6 ; 0; 9; 2; 7</para>
+      <para id="id1171043764948"/>
+      <para id="id2818440">2.2 Write down the odd number immediately before 4 521.</para>
+      <para id="id3477122"/>
+      <para id="id3495496">2.3 Write down the next even number:3 008.</para>
+      <para id="id3105318"/>
+      <para id="id631630">3. What is the value of: the 6 in 1<emphasis effect="bold">6</emphasis> 708?</para>
+      <para id="id1171035475018"/>
+      <para id="id1171035673695">4. The number 17 538 is on the screen of my calculator. How can I change the 7 to 0 by keying in one instruction and = ?</para>
+      <para id="id4174596"/>
+      <para id="id1171043772238">5. Write down the whole number:</para>
+      <para id="id3946256"> 5.1 that is just before 10 000</para>
+      <para id="id1171035163834"/>
+      <para id="id1171036625476">5.2 that is just after 1 000</para>
+      <para id="id3033429"/>
+      <para id="id4423075">5.3 that is greater than 998 and less than 1 000</para>
+      <para id="id6581146"/>
+      <para id="id3687625">5.4 that is between 5 009 and 5 011</para>
+      <para id="id2939941"/>
+      <para id="id1171035448480">6. Write down the answers:</para>
+      <list id="id2836945" list-type="bulleted">
+        <item>347 － 47 =   </item>
+        <item>347 － 37 =  </item>
+        <item>254 － 54 =  </item>
+        <item>254 － 64 =  </item>
+        <item>254 － 44 =  </item>
+      </list>
+      <para id="id7721747">TESTING YOUR PROGRESS SO FAR</para>
+      <para id="id6046767">18 <emphasis effect="underline">4</emphasis>08</para>
+      <para id="id7229928">1. Use the number in the frame to complete the following:</para>
+      <list id="id5471880" list-type="bulleted">
+        <item>What Number System do we use?</item>
+      </list>
+      <para id="id6261760"/>
+      <list id="id3740971" list-type="bulleted">
+        <item>What number symbols do we use to make all our numbers? Write them all down:</item>
+      </list>
+      <para id="id1171036350472"/>
+      <para id="id3319197"/>
+      <list id="id3661303" list-type="bulleted">
+        <item>Write down the value of the underlined figure in the frame above.</item>
+      </list>
+      <para id="id1171038241762"/>
+      <para id="id6342332">1.4 Write down the value of the 8.</para>
+      <list id="id2813001" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>on the left ………………… b) on the right.........…...............</item>
+      </list>
+      <para id="id5381158">1.5 What number will you have if you leave out the “0”?</para>
+      <para id="id6535025"/>
+      <para id="id3535938">1.6 Add 4 to the number in the frame 18 408 + 4 = </para>
+      <para id="id8797015">1.7 Write the number in the frame in expanded notation:</para>
+      <para id="id1171035221220">1 × ………………. + 8 × ………………. + 4 × ……………..+ ………… × 10 + …………</para>
+      <para id="id3248627">1.8 You are counting in 2s. Begin with the number in the frame and write down <emphasis effect="italics">the next</emphasis> 5 numbers:</para>
+      <para id="id2812045"/>
+      <para id="id7512940">2. Write down the missing numbers in this sequence:</para>
+      <para id="id2758158">18 408; 18 508; 18 608; 18 708; ……………..; …………………..; …………………</para>
+    </section>
+    <section id="id4088926">
+      <title>Assessment</title>
+      <table id="id3073690" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.1 count forwards and backwards in a variety of intervals (including 2s; 3s; 5s; 10s; 25s; 50s and 100s) between 0 and 10 000;</entry>
+            </row>
+            <row>
+              <entry>1.2 describes and illustrates various ways of counting in different cultures (including local) throughout history;</entry>
+            </row>
+            <row>
+              <entry>1.3 recognizes and represents the following numbers in order to describe and compare them:1.3.1 whole numbers to at least 4-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.4 recognizes the place value of digits in whole numbers to at least 4-digit numbers;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id3284891">
+      <title>Memorandum</title>
+      <para id="id3506335">ACTIVITY 1: PLACE VALUE</para>
+      <para id="id1171035219361">1. 1 000 + 100 + 10 + 1</para>
+      <para id="id1171036867248">2. 1 000 + 300 + 20 + 6 = 1 326</para>
+      <para id="id6800300">3. 7 834 = 7 000 + 800 + 30 + 4</para>
+      <para id="id8566941"> 2 056 = 2 000 + 0 + 50 + 6</para>
+      <para id="id1171034484191"> 8 503 = 8 000 + 500 + 0 + 3</para>
+      <para id="id6949018"> 1 940 = 1 000 + 900 + 400 + 0</para>
+      <para id="id3232380"> 16 473 = 10 000 + 6 000 + 400 + 70 + 3</para>
+      <para id="id3505309"> 25 809 = 20 000 + 5 000 + 800 + 0 + 9</para>
+      <para id="id2557505">4. Note: using 2; 8; 4; 1 there can be many numbers; room has been given for 4 numbers only, so all</para>
+      <table id="id3323768" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>THOUSANDS1 000</entry>
+              <entry>HUNDREDS100</entry>
+              <entry>TENS10</entry>
+              <entry>UNITS1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7182308">Possibly not all learners will notice that there could be all these numbers, but some learners are sure to do so. This could start valuable discussion. The largest possible number is 8 421. The smallest is 1 248.</para>
+      <para id="id4564248">4.1 Again only 4 steps have been provided. Check that their answers are in descending order, e.g. 8 421; 4 821; 2 841; 1 248</para>
+      <para id="id1171036583130">Note: it is not necessary for the learners to put all the possible numbers into descending order; four numbers are sufficient to show that they understand the meaning of descending order.</para>
+      <para id="id1171034496430">4.2 Again, four numbers are sufficient to show that the learner understands the meaning of ascending order. Please check each learner’s answers.</para>
+      <para id="id2975959">E.g.: 1 248; 2 148; 4 218; 8 421</para>
+      <para id="id7671603">4.3 5 069; 6 059; 6 095; 9 065; 9 506</para>
+      <list id="id1171035274418" list-type="bulleted">
+        <item>8 513; 8 315; 5 318; 3 851; 1 853</item>
+      </list>
+      <list id="id1171034249660" list-type="bulleted">
+        <item>1; 3; 5; 7; 9; 11; 13; 15</item>
+      </list>
+      <para id="id6952673">TEST YOUR KNOWLEDGE: odd and even numbers</para>
+      <para id="id3078275">1. 2 802; 2 894; 2 806; 2 808; 2 810</para>
+      <para id="id1171034477156">2. 9 999</para>
+      <para id="id3015379">3. 3 000 </para>
+      <para id="id7457469"><emphasis effect="bold">6.</emphasis><emphasis effect="bold"/><emphasis effect="bold">LARGER AND SMALLER</emphasis> ; &lt; ; =</para>
+      <para id="id1171037140188">6.1 (a) &lt; (b) = c)   (d) &lt;</para>
+      <para id="id1171043957779"/>
+      <list id="id1171040400152" list-type="bulleted">
+        <item>1 480</item>
+      </list>
+      <para id="id1171046085288">7.</para>
+      <table id="id3157824" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Number</entry>
+              <entry>Operator</entry>
+              <entry>Answer</entry>
+            </row>
+            <row>
+              <entry>58</entry>
+              <entry>X 100</entry>
+              <entry>5 800</entry>
+            </row>
+            <row>
+              <entry>145</entry>
+              <entry>X 10</entry>
+              <entry>1 450</entry>
+            </row>
+            <row>
+              <entry>309</entry>
+              <entry>X 10</entry>
+              <entry>3 090</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry> 10</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry>X 10</entry>
+              <entry>10 000</entry>
+            </row>
+            <row>
+              <entry>520</entry>
+              <entry> 10</entry>
+              <entry>52</entry>
+            </row>
+            <row>
+              <entry>1 690</entry>
+              <entry> 10</entry>
+              <entry>169</entry>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry> 100</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>10 000</entry>
+              <entry> 10</entry>
+              <entry>1 000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2394185">9. 3 000; 8 000</para>
+      <para id="id1171046150063"> 20; 10 000</para>
+      <para id="id1171044052411">10.</para>
+      <table id="id1171045953677" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>7 374</entry>
+              <entry>7 000 –70 = 6 930</entry>
+            </row>
+            <row>
+              <entry>6 995</entry>
+              <entry>9 00 – 90 = 810</entry>
+            </row>
+            <row>
+              <entry>3 023</entry>
+              <entry>3 000 – 3 = 2 997</entry>
+            </row>
+            <row>
+              <entry>5 519</entry>
+              <entry>5 000 – 500 = 4 500</entry>
+            </row>
+            <row>
+              <entry>2 454</entry>
+              <entry>400 –4 = 396</entry>
+            </row>
+            <row>
+              <entry>10 010</entry>
+              <entry>10 000 – 10 =9 990</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171034535353">11. Game</para>
+      <para id="id1171044010171">12. The first two are examples:</para>
+      <table id="id1171040314951" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Number, bold digit to be replaced by 0</entry>
+              <entry>What to do</entry>
+              <entry>Calculator answer</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 35<emphasis effect="bold">6</emphasis></entry>
+              <entry>- 6or: + 4</entry>
+              <entry>1 3501 360</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">2</emphasis> 519</entry>
+              <entry>- 200</entry>
+              <entry>2 319</entry>
+              <entry/>
+              <entry>×</entry>
+              <entry>- 2 000 =</entry>
+            </row>
+            <row>
+              <entry>6 <emphasis effect="bold">7</emphasis>23</entry>
+              <entry>- 700or: + 300</entry>
+              <entry>6 0237 023</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15 6<emphasis effect="bold">3</emphasis>8</entry>
+              <entry>- 30or: + 70</entry>
+              <entry>15 60815 708</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">1</emphasis>3 642</entry>
+              <entry>-10 000or: + 90 000</entry>
+              <entry>3 642103 642</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1<emphasis effect="bold">7</emphasis> 389</entry>
+              <entry>- 7 000or: + 3 000</entry>
+              <entry>10 38920 389</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">5</emphasis>90</entry>
+              <entry>- 500or: + 500</entry>
+              <entry>901 090</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14 84<emphasis effect="bold">3</emphasis></entry>
+              <entry>- 3or: + 7</entry>
+              <entry>14 84014 850</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7 <emphasis effect="bold">3</emphasis>94</entry>
+              <entry>- 300or: + 700</entry>
+              <entry>7 0948 094</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171033386367">13. Yes</para>
+      <para id="id1171046117979">TEST YOUR SKILLS: PLACE VALUE</para>
+      <list id="id1171043690908" list-type="enumerated" number-style="arabic">
+        <item>6 029</item>
+      </list>
+      <list id="id1171046052308" list-type="bulleted">
+        <item>97 620   2.2  4 519  2.3 3 010</item>
+      </list>
+      <para id="id4214515">3. 6 000</para>
+      <list id="id1171043693874" list-type="enumerated" number-style="arabic">
+        <item>- 7 000  of  + 3 000</item>
+      </list>
+      <list id="id1171043817261" list-type="bulleted">
+        <item>9 999  5.2  1 001</item>
+        <item>999  5.4 5 010</item>
+      </list>
+      <list id="id3711796" list-type="bulleted">
+        <item>300</item>
+        <item>310</item>
+        <item>200</item>
+        <item>190</item>
+        <item>210</item>
+      </list>
+      <para id="id651252">TESTING YOUR PROGRESS SO FAR</para>
+      <list id="id1171045901100" list-type="bulleted">
+        <item>Decimal</item>
+        <item>0; 1; 2; 3; 4; … 9</item>
+        <item>400</item>
+        <item>(a) 8 000  (b) 8</item>
+        <item>1 848</item>
+        <item>18 412</item>
+        <item>1 x 10 000 + 8 x 1 000 + 4 x 100 + 0 + 8</item>
+        <item>18 410; 18 412; 18414; 18 416; 18 418</item>
+      </list>
+      <para id="id1171040676328">2. 18 808; 18 908; 19 008</para>
+    </section>
+  </content>
+</document>

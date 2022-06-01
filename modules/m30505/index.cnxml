@@ -1,0 +1,1001 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Comparing fractions</title>
+  <metadata>
+  <md:content-id>m30505</md:content-id><md:title>Comparing fractions</md:title>
+  <md:abstract/>
+  <md:uuid>6573216c-bd8f-43fe-80da-5130ae383bf8</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166504064220">
+      <title>MATHEMATICS</title>
+      <para id="para-id1166504064220">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166503628799">
+      <title>Grade 4</title>
+      <para id="para-id1166503628799">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166504018915">
+      <title>NUMBERS, FEACTIONS, DECIMALS AND NUMBER PATTERNS</title>
+      <para id="para-id1166504018915">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166500321914">
+      <title>Module 8</title>
+      <para id="para-id1166500321914">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166500276509">
+      <title>COMPARING FRACTIONS</title>
+      <para id="id1166503720082">Activity 1:</para>
+      <para id="id1166503720087">To compare fractions [LO 1.3]</para>
+      <para id="id1166504007388">1. Each of the following three bars represents one whole.</para>
+      <table id="id1166507316036" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+              <entry namest="c9" nameend="c12"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166507335123">The top bar shows thirds. The middle bar shows twelfths. The last bar shows sixths. You may use them to replace 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math> with the correct sign from: &lt; and  to make the statements true:</para>
+      <para id="id1166503912508">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166503976754">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166503654873">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"12"} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166503714061">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"12"} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166504072477">2. Here again, each of the bars represents one whole.</para>
+      <table id="id1166504073679" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166504037184">The top bar shows   . The lower bar shows  .</para>
+      <para id="id1166504056408">You may use these bars to complete the following:</para>
+      <list id="id1166504056412" list-type="bulleted">
+        <item>two-fifths &lt;    tenths</item>
+        <item>six-tenths &lt;    fifths</item>
+        <item>four-fifths     tenths</item>
+        <item>two-tenths &lt;    fifths</item>
+        <item>Which is greater: four-tenths or four-fifths?  .</item>
+        <item>Which is greater: three-tenths or two-fifths?  .</item>
+        <item>Which is less: three-fifths or five-tenths?  .</item>
+      </list>
+      <para id="id1166507081525">3. Here again, each of the bars represents one whole. </para>
+      <table id="id1166504082891" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166503664150">Look carefully at the bars above and then complete the following:</para>
+      <list id="id1166503664153" list-type="bulleted">
+        <item>half    eighths.</item>
+        <item>two-eighths &lt;   quarters</item>
+        <item>three-quarters  five  .</item>
+      </list>
+      <para id="id1166503920674">Activity 2:</para>
+      <para id="id1166503859794">To count forwards and backwards in fractions [LO 1.3] </para>
+      <para id="id1166503849823">1. Group Discussion</para>
+      <para id="id1166503709206">Read the following and discuss who was correct:</para>
+      <para id="id1166503709210">The educator said, “Count in halves from 0 to 10.”</para>
+      <para id="id1166503874053"/>
+      <figure id="id1166503694431">
+        <media id="id1166503694431_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16-5ba9.png" id="id1166503694431__onlineimage" height="211" width="558"/>
+        </media>
+      </figure>
+      <para id="id1166504059827">Who was correct?</para>
+      <para id="id1166503674381">Actually both ways of counting were correct. Let’s look at the way Peter did it.</para>
+      <para id="id1166507067297"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 11{1}}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> What do you notice?</para>
+      <para id="id1166503986066">Yes, after the first two, the top part of the fraction is bigger than the bottom part.</para>
+      <para id="id1166503704072">What does this mean? Discuss.</para>
+      <para id="id1166503658893">Yes, it means that there is at least one whole hidden in there.</para>
+      <para id="id1166503875954"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> = one whole; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{1 {  {1}  over  { size 11{2}} } }} {}</m:annotation></m:semantics></m:math> What do four halves mean? What do five halves mean?</para>
+      <para id="id1166503649481">When the top part of the fraction is larger than the bottom part, we call it an IMPROPER FRACTION.</para>
+      <para id="id1166504068477"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> is an IMPROPER FRACTION; the top bit is larger than the bottom bit.</para>
+      <para id="id1166503836487">Sometimes it is necessary to make improper fractions in calculations. However, most educators like the final answer to a calculation to be a mixed number.</para>
+      <para id="id1166503646707">2. ORAL WORK: Now do these counting exercises. You may use either improper fractions or mixed numbers. Ask a friend to check your answers.</para>
+      <para id="id1166503955019">2.1 (a) Count in halves from 0 to 10. </para>
+      <para id="id1166507273916">(b) Count backwards in halves from 100 to 90</para>
+      <para id="id1166504002476">2.2 (a) Count in thirds from 6 to 10.</para>
+      <para id="id1166500271360">(b) Count backwards in thirds from 30 to 25.</para>
+      <para id="id1166504077585">2.3 (a) Count in quarters from 12 to 16. </para>
+      <para id="id1166504079050">(b) Count backwards in quarters from 100 to 96.</para>
+      <para id="id1166503864974">2.4 (a) Count in fifths from 50 to 55.</para>
+      <para id="id1166507081501">(b) Count backwards in fifths from 10 to 6.</para>
+      <para id="id1166503630249">2.5 (a) Count in sixths from 24 to 26.</para>
+      <para id="id1166503990764">(b) Count backwards in sixths from 36 to 30.</para>
+      <para id="id1166503930926">2.6 (a) Count in sevenths from 0 to 4.</para>
+      <para id="id1166503699996">(b) Count backwards in sevenths from 21 to 17.</para>
+      <para id="id1166503672572">2.7 (a) Count in eighths from 0 to 3.</para>
+      <para id="id1166503977348">(b) Count backwards in eighths from 10 to 8.</para>
+      <para id="id1166503963769">2.8 (a) Count in tenths from 3 to 8.</para>
+      <para id="id1166507223422">(b) Count backwards in tenths from 100 to 97.</para>
+      <para id="id1166504017126">Activity 3:</para>
+      <para id="id1166504017130">To recognise equivalent fractions [LO 1.5, 2.1] </para>
+      <para id="id1166503938807">
+        <emphasis effect="bold">Two boys study a measuring beaker half full:</emphasis>
+      </para>
+      <para id="id1166504155715">
+        <figure id="id1166504155719">
+          <media id="id1166504155719_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 26-214a.png" id="id1166504155719__onlineimage" height="271" width="546"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1166507035313">Who is correct? Yes, they both are. There is only one beaker and one quantity of Coke, but it can be called 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{1}}  over  { size 10{2}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mtext>500</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mtext>1 000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{"500"}}  over  { size 10{"1 000"}} } } {}</m:annotation></m:semantics></m:math> ; thus, different names for the same quantity.</para>
+      <para id="id1166504028291">We say 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{1}}  over  { size 10{2}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mtext>500</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mtext>1 000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{"500"}}  over  { size 10{"1 000"}} } } {}</m:annotation></m:semantics></m:math> are EQUIVALENT FRACTIONS.</para>
+      <para id="id1166503945672">The thousandths are smaller pieces, but there are 500 of them; enough to make a half.</para>
+      <para id="id1166504065988">1. Now see if you can work out the equivalent fractions here (Use the bars in the diagram if necessary):</para>
+      <list id="id1166500267630" list-type="bulleted">
+        <item>Half a sausage roll is equivalent to …………. quarters of an identical sausage roll.</item>
+      </list>
+      <table id="id1166503656640" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166504105309"/>
+      <para id="id1166504105312">Equivalence occurs when the whole may have been cut into a different number of parts, but there are enough of them to make the same quantity as there is in the other fraction. We write it in words or with digits, thus 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{1}}  over  { size 10{2}} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{2}}  over  { size 10{4}} } } {}</m:annotation></m:semantics></m:math> and we use the = sign.</para>
+      <para id="id1166503613741">1.2 Half a sausage roll is equivalent to   sixths of an identical sausage roll.</para>
+      <list id="id1166507341144" list-type="bulleted">
+        <item>Half a sausage roll is equivalent to    eighths of an identical </item>
+      </list>
+      <para id="id1166503847358">sausage roll. Now make up one of your own:</para>
+      <list id="id1166503877839" list-type="bulleted">
+        <item>Half a sausage roll is equivalent to    of an identical sausage roll.</item>
+      </list>
+      <para id="id1166503991542">2. Halves.</para>
+      <table id="id1166507029743" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1166503877233" list-type="bulleted">
+        <item>The top bar shows halves. Shade in one half.</item>
+        <item>Now see if you can find fractions in the other bars equivalent to a half. Write them all down below. Try to spot some pattern in your answers. Discuss this with a friend.</item>
+      </list>
+      <para id="id1166503875842"/>
+      <para id="id1166504115267">3. Thirds.</para>
+      <table id="id1166504114839" summary="">
+        <tgroup cols="24">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <colspec colnum="21" colname="c21"/>
+          <colspec colnum="22" colname="c22"/>
+          <colspec colnum="23" colname="c23"/>
+          <colspec colnum="24" colname="c24"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c8"/>
+              <entry namest="c9" nameend="c16"/>
+              <entry namest="c17" nameend="c24"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+              <entry namest="c9" nameend="c12"/>
+              <entry namest="c13" nameend="c16"/>
+              <entry namest="c17" nameend="c20"/>
+              <entry namest="c21" nameend="c24"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+              <entry namest="c13" nameend="c14"/>
+              <entry namest="c15" nameend="c16"/>
+              <entry namest="c17" nameend="c18"/>
+              <entry namest="c19" nameend="c20"/>
+              <entry namest="c21" nameend="c22"/>
+              <entry namest="c23" nameend="c24"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1166503885433" list-type="bulleted">
+        <item>The top bar shows thirds. Shade in one third.</item>
+        <item>Now see if you can find fractions in the other bars equivalent to one third. Write them all down below.</item>
+      </list>
+      <para id="id1166503718211"/>
+      <para id="id1166503718215">Try to spot some pattern in your answers. Discuss this with a friend.</para>
+      <para id="id1166503937184">3.3 Find all the fractions that are equivalent to two-thirds. Write them down below:</para>
+      <para id="id1166503727881"/>
+      <para id="id1166503727885">4. Fifths.</para>
+      <table id="id1166503686270" summary="">
+        <tgroup cols="30">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <colspec colnum="21" colname="c21"/>
+          <colspec colnum="22" colname="c22"/>
+          <colspec colnum="23" colname="c23"/>
+          <colspec colnum="24" colname="c24"/>
+          <colspec colnum="25" colname="c25"/>
+          <colspec colnum="26" colname="c26"/>
+          <colspec colnum="27" colname="c27"/>
+          <colspec colnum="28" colname="c28"/>
+          <colspec colnum="29" colname="c29"/>
+          <colspec colnum="30" colname="c30"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c6"/>
+              <entry namest="c7" nameend="c12"/>
+              <entry namest="c13" nameend="c18"/>
+              <entry namest="c19" nameend="c24"/>
+              <entry namest="c25" nameend="c30"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3"/>
+              <entry namest="c4" nameend="c6"/>
+              <entry namest="c7" nameend="c9"/>
+              <entry namest="c10" nameend="c12"/>
+              <entry namest="c13" nameend="c15"/>
+              <entry namest="c16" nameend="c18"/>
+              <entry namest="c19" nameend="c21"/>
+              <entry namest="c22" nameend="c24"/>
+              <entry namest="c25" nameend="c27"/>
+              <entry namest="c28" nameend="c30"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+              <entry namest="c13" nameend="c14"/>
+              <entry namest="c15" nameend="c16"/>
+              <entry namest="c17" nameend="c18"/>
+              <entry namest="c19" nameend="c20"/>
+              <entry namest="c21" nameend="c22"/>
+              <entry namest="c23" nameend="c24"/>
+              <entry namest="c25" nameend="c26"/>
+              <entry namest="c27" nameend="c28"/>
+              <entry namest="c29" nameend="c30"/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry namest="c8" nameend="c9"/>
+              <entry namest="c10" nameend="c11"/>
+              <entry/>
+              <entry/>
+              <entry namest="c14" nameend="c15"/>
+              <entry namest="c16" nameend="c17"/>
+              <entry/>
+              <entry/>
+              <entry namest="c20" nameend="c21"/>
+              <entry namest="c22" nameend="c23"/>
+              <entry/>
+              <entry/>
+              <entry namest="c26" nameend="c27"/>
+              <entry namest="c28" nameend="c29"/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1166503926328" list-type="bulleted">
+        <item>The top bar shows fifths. Shade in one fifth.</item>
+        <item>Now see if you can find fractions in the other bars equivalent to one fifth. Write them all down</item>
+      </list>
+      <para id="id1166503865301"/>
+      <para id="id1166504073657">Try to spot some pattern in your answers. Discuss this with a friend.</para>
+      <para id="id1166504037440">4.3 Now see if you can find fractions in the other bars equivalent to two fifths. Write them all down.</para>
+      <para id="id1166504112062"/>
+      <para id="id1166504112065">Try to spot some pattern in your answers. Discuss this with a friend.</para>
+      <para id="id1166503875425">4.4 Now see if you can find fractions in the other bars equivalent to three fifths. Write them all down.</para>
+      <para id="id1166503625832"/>
+      <para id="id1166503667274">Try to spot some pattern in your answers. Discuss this with a friend.</para>
+      <para id="id1166506996956">4.5 Now see if you can find fractions in the other bars equivalent to four fifths. Write them all down.</para>
+      <para id="id1166503811185"/>
+      <para id="id1166503811188">Try to spot some pattern in your answers. Discuss this with a friend.</para>
+      <para id="id1166503707579">5. Patterns.</para>
+      <para id="id1166504078430">5.1 Spot the pattern and fill in the missing parts:</para>
+      <table id="id1166504082218" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>FRACTION</entry>
+              <entry namest="c2" nameend="c5">EQUIVALENT FRACTIONS</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="11pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="11pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 11{1}}  over  { size 11{2}} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow/>
+                            <m:mn>4</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {}  over  {4} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow/>
+                            <m:mn>8</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {}  over  {8} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>8</m:mn>
+                            <m:mrow/>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mtext>16</m:mtext>
+                            <m:mrow/>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1166503879983" list-type="bulleted">
+        <item>Try to write down the patterns that you saw.</item>
+        <item>Spot the pattern and fill in the missing parts:</item>
+      </list>
+      <table id="id1166507364651" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>FRACTION</entry>
+              <entry namest="c2" nameend="c5">EQUIVALENT FRACTIONS</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="11pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mn>3</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 11{1}}  over  {3} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow/>
+                            <m:mn>6</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {}  over  {6} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow/>
+                            <m:mn>9</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {}  over  {9} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>6</m:mn>
+                            <m:mrow/>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow/>
+                            <m:mtext>12</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {}  over  {"12"} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166503727358">5.4 Try to spot patterns for making equivalent fractions for other fractions. Discuss them in class.</para>
+      <para id="id1166503729580">Activity 4:</para>
+      <para id="id1166504110976">To use equivalent fractions [LO 1.5, 1.7]</para>
+      <para id="id1166504110981">1. Joan spent three-quarters of her holiday at home and her brother, Willie, spent five-eighths of the same holiday at home. Which of them spent more time at home that holiday?</para>
+      <para id="id1166503732011"/>
+      <para id="id1166504093108"/>
+      <para id="id1166504093112">2. David’s rabbits ate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> of a bunch of carrots. Roy’s rabbits ate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of an identical bunch of carrots. Which boy had more carrots left over?</para>
+      <para id="id1166503823640">3. Len’s mother made three identical tins of shortbread. She cut the first one into three pieces; the second one into six pieces and the third one into twelve pieces. Len ate one piece from the first tin. His brother, Bruce, ate three pieces from the second tin and their father ate four pieces from the third tin.</para>
+      <para id="id1166503820883">3.1 Who ate the most shortbread? </para>
+      <para id="id1166504062703">3.2 Which of them ate the same quantity of shortbread?</para>
+      <para id="id1166503825994">4. Amos looked after the vines at the end of his grandfather’s vegetable garden. When the grapes were ripe, Amos picked 15 kilograms of delicious Hanepoot grapes. His grandfather said he could put them in packets that held 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{1 {  {1}  over  {2} } }} {}</m:annotation></m:semantics></m:math> kg of grapes each, and sell them for R6 each, or he could put the grapes in boxes which held 5 kg of grapes, and sell each box for R20. Amos wanted to make as much money as possible.</para>
+      <para id="id1166504062880">4.1 How many packets would Amos need if he chose packets?</para>
+      <para id="id1166504056448">4.2 How many boxes would he need if he chose boxes?</para>
+      <para id="id1166503648552">4.3 Would he make more money by using the packets or the boxes, and if so, how much more would he make? Explain your answer.</para>
+    </section>
+    <section id="id1166500320966">
+      <title>Assessment</title>
+      <table id="id1166504030072" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.1 counts forwards and backwards in a variety of intervals;</entry>
+            </row>
+            <row>
+              <entry>1.3 recognises and represents the following numbers in order to describe and compare them: common fractions with different denominators, common fractions in diagrammatic form, decimal fractions and multiples of single-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.3.2 common fractions with different denominators, including halves, thirds, quarters, fifths, sixths, sevenths and eighths;</entry>
+            </row>
+            <row>
+              <entry>1.3.3 common fractions in diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>1.3.4 decimal fractions of the form 0,5; 1,5 and 2,5; etc., in the context of measurement; </entry>
+            </row>
+            <row>
+              <entry>1.3.6 multiples of single-digit numbers to at least 100;</entry>
+            </row>
+            <row>
+              <entry>1.5 recognises and uses equivalent forms of the numbers including common fractions and decimal fractions;</entry>
+            </row>
+            <row>
+              <entry>1.5.1 common fractions with denominators that are multiples of each other;</entry>
+            </row>
+            <row>
+              <entry>1.5.2 decimal fractions of the form 0,5; 1,5 and 2,5, etc., in the context of measurement;</entry>
+            </row>
+            <row>
+              <entry>1.7 solves problems that involve comparing two quantities of different kinds (rate);</entry>
+            </row>
+            <row>
+              <entry>1.7.1 comparing two or more quantities of the same kind (ratio);</entry>
+            </row>
+            <row>
+              <entry>1.8 estimates and calculates by selecting and using operations appropriate to solving problems that involve addition of common fractions, multiplication of at least whole 2-digit by 2-digit numbers, division of at least whole 3-digit by 1-digit numbers and equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.8.3 addition of common fractions in context;</entry>
+            </row>
+            <row>
+              <entry>1.8.6 equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.9 performs mental calculations involving:</entry>
+            </row>
+            <row>
+              <entry>1.9.2 multiplication of whole numbers to at least 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.12 recognises, describes and uses:, and </entry>
+            </row>
+            <row>
+              <entry>1.12.1 the reciprocal relationship between multiplication and division (e.g. if 5 x 3 = 15 then 15 ÷ 3 = 5 and 15 ÷ 5 = 3;</entry>
+            </row>
+            <row>
+              <entry>1.12.2 the equivalence of division and fractions (e.g. 1 ÷ 8 = ⅛);</entry>
+            </row>
+            <row>
+              <entry>1.12.3 the commutative, associative and distributive properties with whole numbers.</entry>
+            </row>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates and extends numeric and geometric patterns looking for a relationship or rules;</entry>
+            </row>
+            <row>
+              <entry>2.1.1 represented in physical or diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>2.1.2 not limited to sequences involving constant difference or ratio;</entry>
+            </row>
+            <row>
+              <entry>2.1.3 found in natural and cultural contexts;</entry>
+            </row>
+            <row>
+              <entry>2.1.4 of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 describes observed relationships or rules in own words;</entry>
+            </row>
+            <row>
+              <entry>2.3 determines output values for given input values using verbal descriptions and flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.3.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.3.2 flow diagrams.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1166503955886">
+      <title>Memorandum</title>
+      <para id="id1166503882499"/>
+      <para id="id1166503882503">ACTIVITY 1: comparing fractions</para>
+      <para id="id1166503851542">1.1 &lt; 1.2 &lt; 1.3 .  1.4 &lt;</para>
+      <para id="id1166503909743">2.1 five (or six, seven, eight, nine) tenths</para>
+      <para id="id1166503694346">2.2 four</para>
+      <para id="id1166503986785">2.3 seven (or six, five, four, three, two, one) tenths</para>
+      <list id="id1166503997556" list-type="bulleted">
+        <item>two (or three, four, five) fifths</item>
+        <item>four-fifths</item>
+        <item>two-fifths</item>
+      </list>
+      <para id="id1166507345256">2.7 five-tenths</para>
+      <list id="id1166504025466" list-type="bulleted">
+        <item>three (or two, one)</item>
+        <item>two (or three, four)</item>
+        <item>eighths</item>
+      </list>
+      <para id="id1166504117948">ACTIVITY 2: counting in fractions</para>
+      <para id="id1166503670598">1.1 Group discussion</para>
+      <para id="id1166504117557">ACTIVITY 3: equivalent fractions</para>
+      <para id="id1166504106188">1.1 shading; 2 quarters</para>
+      <para id="id1166504109047">1.2 3 sixths 1.3 four eighths 1.4 own</para>
+      <list id="id1166503997655" list-type="bulleted">
+        <item>shading</item>
+        <item>half = two-quarters = four-eighths</item>
+      </list>
+      <list id="id1166503926548" list-type="bulleted">
+        <item>shading</item>
+        <item>one-third = two-sixths = four-twelfths = eight twenty-fourths</item>
+        <item>two-thirds = four-sixths = eight-twelfths = sixteen twenty-fourths</item>
+      </list>
+      <para id="id1166503868404">4. Fifths</para>
+      <para id="id1166503814293">4.1 shading</para>
+      <para id="id1166503845120">4.2  ; ; ; </para>
+      <para id="id1166507270213">4.3  ; ; ; </para>
+      <para id="id1166504122057">4.4 ; ; ; </para>
+      <para id="id1166503968146">4.5 ; ; ; </para>
+      <para id="id1166503824960">Discuss patterns</para>
+      <para id="id1166504056216">5. Patterns</para>
+      <para id="id1166503867189">5.1 Missing parts: 2; 4; 16; 32</para>
+      <list id="id1166503950479" list-type="bulleted">
+        <item>Pattern</item>
+        <item>Missing parts: 2; 3; 18; 4</item>
+        <item>Class discussion: patterns for making equivalent fractions.</item>
+      </list>
+      <para id="id1166503872589">ACTIVITY 4: using equivalent fractions</para>
+      <para id="id1166504111124">1. Joan; = </para>
+      <para id="id1166503873335">2. David; = , David had more carrots <emphasis effect="italics">left over.</emphasis></para>
+      <para id="id1166507073033">3.1 Len: one third; Bruce three-sixths (i.e. half); Dad: four-twelfths so Bruce ate the most.</para>
+      <list id="id1166503849127" list-type="bulleted">
+        <item>Len and his father.</item>
+      </list>
+      <para id="id1166503730838">4.1  1 x 10 = 15;  10 packets</para>
+      <para id="id1166503948354">4.2 5 x 3 = 15; 3 boxes</para>
+      <para id="id1166507070216">4.3 10 x R6 = R60; 3 x R20 = R60He’d get the same amount of money whether he used boxes or packets.</para>
+      <para id="id1166503823296">3. 1 - =   - = </para>
+      <para id="id1166507310552">4.  + =  + = = 1</para>
+      <para id="id1166503829069"/>
+      <table id="id1166507272051" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166503705169">0      1      2</para>
+    </section>
+  </content>
+</document>

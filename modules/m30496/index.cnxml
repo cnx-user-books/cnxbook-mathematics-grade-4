@@ -1,0 +1,619 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Written and mental calculations with whole numbers</title>
+  <metadata>
+  <md:content-id>m30496</md:content-id><md:title>Written and mental calculations with whole numbers</md:title>
+  <md:abstract/>
+  <md:uuid>65900c14-7d61-4ce9-b18f-67a2af4a26dd</md:uuid>
+</metadata>
+
+<content>
+    <section id="id16667878">
+      <title>MATHEMATICS</title>
+      <para id="para-id16667878">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4524000">
+      <title>Grade 4</title>
+      <para id="para-id4524000">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17669730">
+      <title>WHOLE NUMBERS AND THEIR RELATIONSHIPS</title>
+      <para id="para-id17669730">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18074194">
+      <title>Module 3</title>
+      <para id="para-id18074194">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13891129">
+      <title>WRITTEN AND MENTAL CALCULATIONS WITH WHOLE NUMBERS</title>
+      <para id="id12389270">Activities:</para>
+      <list id="id9260483" list-type="bulleted">
+        <item>Use a range of techniques to perform written and mental calculations with whole numbers [LO 1.10]</item>
+        <item>Estimate and calculate by selecting and using operations appropriate to solving problems [LO 1.8]</item>
+        <item>Solve problems that involve comparing two or more quantities of the same kind (ratio) [LO 1.7]</item>
+        <item>Use a range of strategies to check solutions and judge their reasonableness [LO 1.11]</item>
+      </list>
+      <para id="id16787599">FINDING APPROXIMATE ANSWERS AND CHECKING ANSWERS </para>
+      <para id="id18433375">Now that you have studied “Place Value”, we are going to look at “Rounding Off” numbers so that we can use this to:</para>
+      <list id="id13020740" list-type="bulleted">
+        <item>calculate approximate answers quickly and also</item>
+        <item>check our answers quickly.</item>
+      </list>
+      <para id="id7031684">1. APPROXIMATING, BY ROUNDING OFF</para>
+      <para id="id15201364"> Consider the following:</para>
+      <para id="id14935453">1.1 You are riding your bike from your home to the home of a friend who lives 10km away. Your tyre bursts when you have gone 4km. Will you decide to walk home to fix it or go on to your friend?</para>
+      <para id="id7724216"/>
+      <para id="id24061928"/>
+      <para id="id17835358">Yes, you’ll walk home because it’s nearer. 4 is nearer to 0 than to 10</para>
+      <para id="id7727030">1.2 Now the tyre bursts when you have ridden 6km. Will you decide to walk to your friend’s home or back to your own home?</para>
+      <para id="id20548131"> Yes, you’ll go on to your friend’s home because it is nearer.</para>
+      <para id="id11803111">6 is nearer to 10 than to 0.</para>
+      <para id="id20509261">1.3 Now the tyre bursts when you have ridden 5km exactly. Should you decide to walk  to your friend’s home or back to your own home?</para>
+      <para id="id22679041">
+        <emphasis effect="bold">In Mathematics, </emphasis>
+        <emphasis effect="italics">always round off upwards</emphasis>
+        <emphasis effect="bold"> if the last digit is 5.</emphasis>
+      </para>
+      <list id="id20462243" list-type="bulleted">
+        <item>Now use the diagrams that we have just seen to help you to complete the table:</item>
+      </list>
+      <table id="id18111246" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Number</entry>
+              <entry>Rounded off to the nearest 10</entry>
+            </row>
+            <row>
+              <entry>54</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 345</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>278</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>978</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>245</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 133</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>684</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id16655693">1.5 Now we are going to use “rounding off” to calculate, quickly, an <emphasis effect="italics">approximate answer</emphasis> for the following sums, and then we shall calculate the<emphasis effect="italics"> exact answer</emphasis>, and compare the difference between the two answers. Fill in what is missing in each column:</para>
+      <table id="id5688608" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Sum</entry>
+              <entry>Numbers rounded off to the nearest 10</entry>
+              <entry>Approximate answer</entry>
+              <entry>Exact answer</entry>
+              <entry>Difference between the 2 answers</entry>
+            </row>
+            <row>
+              <entry>24 + 36</entry>
+              <entry>20 + 40</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>52 + 48</entry>
+              <entry>50 + 50</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>33 + 52</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>79 + 23</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>17 + 47</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>125 + 46</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>411 + 732</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id13874379">1.6 Look at the sums that you have just completed. In which sums was the approximate answer and the exact answer not very close, and why?</para>
+      <para id="id18941430"/>
+      <para id="id18314355"/>
+      <para id="id18393791"><emphasis effect="bold">ROUNDING OFF TO THE NEAREST 100</emphasis>:</para>
+      <para id="id4195276">1.7 Complete the table below. .</para>
+      <table id="id10499894" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Number</entry>
+              <entry>Rounded off to the nearest 100</entry>
+            </row>
+            <row>
+              <entry>256</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>304</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>549</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 207</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 399</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id18889480">ROUNDING OFF TO THE NEAREST 1 000:</para>
+      <para id="id25187271">1.8 Complete the table below. </para>
+      <table id="id21455456" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Number</entry>
+              <entry>Number rounded off to the nearest 1 000</entry>
+            </row>
+            <row>
+              <entry>500</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 702</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4 089</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>723</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 055</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>276</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id21328301"/>
+      <para id="id9000420">1.9 Use rounding off to estimate the approximate answer of the following sums. Then calculate the exact answer:</para>
+      <table id="id25092972" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>SUM with the exact answer.</entry>
+              <entry>Sum with numbers rounded off to the nearest 10 and the estimated answer:</entry>
+            </row>
+            <row>
+              <entry>873 + 46</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>934 － 87</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20986923">2. <emphasis effect="bold">WORD SUMS</emphasis></para>
+      <list id="id16663747" list-type="bulleted">
+        <item>Now see how well you can solve word sums without a calculator. Check that your answers are reasonable by rounding off the numbers, but remember that your final answer must be the<emphasis effect="italics"> exact </emphasis>answer. The numbers are not very big and the sums are straightforward, but you will have to read carefully. Write down all you need to write down, and remember to write words with your answer. When you have finished the sums, compare your findings with those of a friend. Enjoy this task.</item>
+      </list>
+      <para id="id20352608">2.1 In a General Knowledge Competition the Girls’ Team scored 642 points by tea-time. The Boys’ Team scored 493 points. By how many points was the Boys’ Team behind the Girls’ Team?</para>
+      <para id="id19942423">2.2 By lunch-time the Girls’ Team had 734 points and the Boys’ Team had 655 points.</para>
+      <list id="id22938392" list-type="enumerated" number-style="lower-alpha">
+        <item>Was the Boys’ Team catching up? </item>
+        <item>Why do you say this? Answer carefully. </item>
+        <item>By how many points was the Boys’ Team behind the Girls’ Team at lunch-time? </item>
+      </list>
+      <para id="id25317064">2.3 After lunch, the boys made a determined effort. During the afternoon they scored another 619 points. The girls scored 519 points in the afternoon. When all the points were added up, which team eventually won the competition, and by how much?</para>
+      <para id="id24195381">3. <emphasis effect="bold">CALCULATOR GAME: two players, one calculator</emphasis></para>
+      <para id="id19496895">
+        <figure id="id7974226">
+          <media id="id7974226_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-8932.png" id="id7974226__onlineimage" height="250" width="607"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id7848996" list-type="bulleted">
+        <item>Continue in this manner. If one of the players makes a mistake, correct it and then the other player gets an extra turn to ask a question. Keep the numbers not more than 4-digit numbers at the most. It’s valuable to become very good at 2-digit numbers first.</item>
+        <item>Complete:</item>
+      </list>
+      <para id="id18053966">a. 100 – 7 =    </para>
+      <para id="id14088928">b. 1 000 – 7 =  </para>
+      <para id="id20300465">c. 500 – 7 =   </para>
+      <para id="id17389028">d. 500 – 17 =  </para>
+      <para id="id22371305">e. 500 – 27 =   </para>
+      <para id="id13018220">f. 700 – 70 =  </para>
+      <para id="id11588102">g. 1 000 – 70 =   </para>
+      <para id="id17665521">h. 2 100 – 70 =  </para>
+      <para id="id20123474">4. <emphasis effect="bold">SOME TECHNIQUES to perform written and mental calculations.</emphasis></para>
+      <list id="id23176620" list-type="bulleted">
+        <item>How can one add 8 + 7 easily?</item>
+      </list>
+      <para id="id5892926">
+        <figure id="id9522191">
+          <media id="id9522191_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-0194.png" id="id9522191__onlineimage" height="205" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id25419633">
+        <media id="id25419633_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-089e.png" id="id25419633__onlineimage" height="250" width="633"/>
+        </media>
+      </figure>
+      <para id="id9600374">4.2 Discuss: which learner was right? What method must you use?</para>
+      <para id="id21993351"/>
+      <para id="id17743094"/>
+      <list id="id23225463" list-type="bulleted">
+        <item>You must use the method <emphasis effect="italics">that you understand best,</emphasis> the one that you feel comfortable with, and you must also try to listen to others when they explain their methods. But be sure to use the method that you really understand well enough <emphasis effect="italics">to explain to others</emphasis> what you did.4.3 Try to see a link between these sums as you write down the answers</item>
+      </list>
+      <para id="id23291836">a. 8 + 7 =   </para>
+      <para id="id10166093">b. 18 + 7 = </para>
+      <para id="id20533562">c. 8 + 17 =   </para>
+      <para id="id20401238">d. 18 + 17 = </para>
+      <para id="id10479163">e. 8 – 7 =   </para>
+      <para id="id5059054">f. 18 – 7 = </para>
+      <para id="id17381378">g. 28 – 7 =  </para>
+      <para id="id5923531">h. 28 – 17 = </para>
+      <para id="id15819166">5. Now use your method and try some written sums. Write down all the steps you needed  to reach the answer. You may not use a calculator.</para>
+      <list id="id21303498" list-type="bulleted">
+        <item>87 － 54</item>
+      </list>
+      <list id="id15165091" list-type="bulleted">
+        <item>84 － 57</item>
+        <item>Now discuss these two sums and their answers with a friend.</item>
+        <item>Explain what you noticed. </item>
+      </list>
+      <para id="id23271988">6. Now calculate, without a calculator and using the method that you feel you understand  most. Write down all the steps of your calculation:</para>
+      <list id="id22844571" list-type="bulleted">
+        <item>1 345 + 278</item>
+      </list>
+      <list id="id22895442" list-type="bulleted">
+        <item>978 – 245 </item>
+        <item>1 278 + 1 133 </item>
+        <item>845 – 672</item>
+        <item>684 – 659</item>
+      </list>
+      <list id="id13009244" list-type="bulleted">
+        <item>4 092 + 3 214 </item>
+      </list>
+      <list id="id10725339" list-type="bulleted">
+        <item>Check the last sum by rounding off the numbers to the nearest 10 or nearest 100 and then calculating an approximate answer. Then discuss how you reached your answers with a friend. If necessary, check your answers on a calculator.</item>
+      </list>
+      <para id="id22491116">7. <emphasis effect="bold">MORE WORD SUMS</emphasis></para>
+      <para id="id11141542"> Sales at a Craft Market for the first 5 months of the year:</para>
+      <table id="id21313600" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Months</entry>
+              <entry>Cooldrinks</entry>
+              <entry>Hot dogs</entry>
+              <entry>Ice-creams</entry>
+              <entry>Mugs of Soup</entry>
+            </row>
+            <row>
+              <entry>January</entry>
+              <entry>3 064</entry>
+              <entry>1 754</entry>
+              <entry>2 356</entry>
+              <entry>225</entry>
+            </row>
+            <row>
+              <entry>February</entry>
+              <entry>3 215</entry>
+              <entry>1 036</entry>
+              <entry>2978</entry>
+              <entry>54</entry>
+            </row>
+            <row>
+              <entry>March</entry>
+              <entry>1 964</entry>
+              <entry>2 375</entry>
+              <entry>2 035</entry>
+              <entry>987</entry>
+            </row>
+            <row>
+              <entry>April</entry>
+              <entry>874</entry>
+              <entry>3 752</entry>
+              <entry>1 096</entry>
+              <entry>1 952</entry>
+            </row>
+            <row>
+              <entry>May</entry>
+              <entry>756</entry>
+              <entry>3 904</entry>
+              <entry>788</entry>
+              <entry>2 659</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7701658">7.1 How many cooldrinks were sold altogether during the five months?</para>
+      <para id="id12847476">7.2 Were cooldrinks or ice-creams more popular during the five months? Explain why  you give this answer.</para>
+      <para id="id21306635">7.3 Cooldrinks cost R5,00 each. How much money was collected for cooldrinks in  May? Try to find an easy way of calculating this and write it down.</para>
+      <para id="id7703940">7.4 At the beginning of January the ice-cream stall holder buys 24 boxes of ice-creams.  Each box contains 100 ice-creams. How many ice-creams are over at the end of  the January Market?</para>
+      <para id="id5573598">7.5 Which month was the coldest? Why do you say so? (Look back at the table  showing the sales.)</para>
+      <para id="id20716532">7.6 Round off the numbers of cups of soup to the nearest 100 and say approximately  how many cups of soup were sold altogether.</para>
+    </section>
+    <section id="id13290351">
+      <title>Assessment</title>
+      <table id="id22199368" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.7 solves problems that involve:<list id="id22492797" list-type="bulleted"><item>comparing two or more quantities of the same kind (ratio).</item></list></entry>
+            </row>
+            <row>
+              <entry>1.8 estimates and calculates by selecting and using operations appropriate to solving problems that involve:<list id="id25334161" list-type="bulleted"><item>rounding off to the nearest 10; 100 or 1 000;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.9 performs mental calculations involving: addition and subtraction:<list id="id20741589" list-type="bulleted"><item>adding and subtraction;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.10 uses a range of techniques to perform written and mental calculations with whole numbers including:<list id="id25171820" list-type="bulleted"><item>building up and breaking down numbers;</item><item>rounding off and compensating;</item><item>doubling and halving;</item><item>using a number-line;</item><item>using a calculator.</item></list></entry>
+            </row>
+            <row>
+              <entry>1.11 uses a range of strategies to check solutions and judge the reasonableness of solutions.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id24285130">
+      <title>Memorandum</title>
+      <para id="id20564146">ACTIVITY </para>
+      <para id="id14481616">1.1  home  </para>
+      <para id="id19594332">1.2 friend’s home  </para>
+      <para id="id21950716">1.3 either / friend’s home</para>
+      <para id="id19585817">1.4  50; 1 350; 280; 980; 250; 1 130; 680</para>
+      <para id="id9750877">1.5 </para>
+      <table id="id15097682" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Sum</entry>
+              <entry>Numbers rounded off to nearest 10</entry>
+              <entry>Approximate answer</entry>
+              <entry>Exact answer</entry>
+              <entry>Difference</entry>
+            </row>
+            <row>
+              <entry>24 + 36</entry>
+              <entry>20 + 40</entry>
+              <entry>60</entry>
+              <entry>60</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>52 + 48</entry>
+              <entry>50 + 50</entry>
+              <entry>100</entry>
+              <entry>100</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>33 + 52</entry>
+              <entry>30 + 50</entry>
+              <entry>80</entry>
+              <entry>85</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>79+ 23</entry>
+              <entry>80 + 20</entry>
+              <entry>100</entry>
+              <entry>102</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>17 + 47</entry>
+              <entry>20 + 50</entry>
+              <entry>70 </entry>
+              <entry>64</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>125 + 46</entry>
+              <entry>130 + 50</entry>
+              <entry>180</entry>
+              <entry>171</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>411 + 732</entry>
+              <entry>410 + 730</entry>
+              <entry>1 140</entry>
+              <entry>1 143</entry>
+              <entry>3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id10605413">1.6 They are close when one number is rounded off upwards and the other, downwards. When both numbers are rounded off upwards, or both are rounded off downwards the totals are not very close, e.g. the third sum; the fifth sum and the last two sums. The rounding off increases the gap.</para>
+      <para id="id24213443">1.7  300;  300; 500; 1 200; 1 400</para>
+      <para id="id16140224">1.8 1 000; 2 000; 4 000; 1 000; 1 000; 0</para>
+      <list id="id15173832" list-type="bulleted">
+        <item>873 + 46 = 919;  </item>
+      </list>
+      <para id="id22651462">870 + 50 = 920</para>
+      <para id="id22651465"> 934 – 87 = 847;  </para>
+      <para id="id17016655">930 – 90 = 840</para>
+      <para id="id20593034"/>
+      <para id="id20593037">2 WORD SUMS</para>
+      <para id="id20460660">2.1  642 – 493 =149; 640 – 490 = 150</para>
+      <para id="id15631070">The boys were behind by 149 points.</para>
+      <para id="id17922983">2.2 (a)  Yes</para>
+      <para id="id21709859">(b) 734 – 655 =79;  730 – 660 = 70</para>
+      <para id="id11229860">At tea-time the difference between the Girls’ points and the boys’ was 149 points; at lunch-time the difference was only 79 points, so the boys were catching up.</para>
+      <para id="id20429720">(c)  79 points, see above</para>
+      <para id="id13767698">(d)  Girls    </para>
+      <para id="id25406239"> 734 + 519 = 1 253 </para>
+      <para id="id3884204">Boys</para>
+      <para id="id15928337">655 + 619 = 1 274</para>
+      <para id="id15928341">The boys won by 21 points.</para>
+      <para id="id20469622">3.1  Calculator Game</para>
+      <para id="id22164102">3.2 (a) 93 </para>
+      <para id="id17577408">(b) 993 </para>
+      <para id="id19175498">(c) 493 </para>
+      <para id="id8605901">(d) 483  </para>
+      <para id="id19218045">(e) 473 </para>
+      <para id="id14441605">(f) 630</para>
+      <para id="id22713172">(g) 930 </para>
+      <para id="id22738390">(h) 2 030</para>
+      <para id="id22831907">4.1 and 4.2 Discussion: Techniques</para>
+      <para id="id15620301">4.3 (a)  15 </para>
+      <para id="id17798465">(b) 25  </para>
+      <para id="id19064566">(c) 25 </para>
+      <para id="id17102390">(d) 35 </para>
+      <para id="id20539642">(e) 1 </para>
+      <para id="id19599423">(f) 11</para>
+      <para id="id24285214">(g) 21 </para>
+      <para id="id20424308">(h) 11</para>
+      <para id="id21027692">5. WRITTEN SUMS</para>
+      <para id="id25405942">5.1 33  </para>
+      <para id="id21675061">5.2 27</para>
+      <para id="id15715014">5.3 and 5.4 discussion and explanation</para>
+      <para id="id15715018">6.1 1623  </para>
+      <para id="id19230144">6.2 733  </para>
+      <para id="id17652186">6.3 2 411  </para>
+      <para id="id22642764">6.4 173</para>
+      <para id="id17598520">6.5 25  </para>
+      <para id="id16484823">6.6 7 306</para>
+      <para id="id22037607">6.7 Checking by rounding off and discussion</para>
+      <list id="id24709674" list-type="bulleted">
+        <item>9 873 cool drinks</item>
+        <item>Cool drinks; 620 more cool drinks were sold than ice-creams</item>
+        <item>44 ice-creams were over</item>
+        <item>Hot dogs</item>
+        <item>May; many hot-dogs and mugs of soup were sold; few cool drinks and ice creams were sold.</item>
+        <item>6 000 cups of soup </item>
+      </list>
+    </section>
+  </content>
+</document>

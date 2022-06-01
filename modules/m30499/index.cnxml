@@ -1,0 +1,1255 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Numeric patterns</title>
+  <metadata>
+  <md:content-id>m30499</md:content-id><md:title>Numeric patterns</md:title>
+  <md:abstract/>
+  <md:uuid>d23d48fd-17cb-4616-96c0-abb1580bd452</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8756934">
+      <title>MATHEMATICS</title>
+      <para id="para-id8756934">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7501377">
+      <title>Grade 4</title>
+      <para id="para-id7501377">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169406963989">
+      <title>NUMBERS, FEACTIONS, DECIMALS AND NUMBER PATTERNS</title>
+      <para id="para-id1169406963989">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7606896">
+      <title>Module 6</title>
+      <para id="para-id7606896">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7558458">
+      <title>NUMERIC PATTERNS</title>
+      <para id="id7447736">Activity 1:</para>
+      <table id="id1169406991882" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>To recognise and represent multiples in order to be able to describe, compare and represent them [LO 1.3] </entry>
+            </row>
+            <row>
+              <entry>To investigate numeric patterns [LO 2.1] </entry>
+            </row>
+            <row>
+              <entry>To describe numeric patterns in your own words [LO 2.2]</entry>
+            </row>
+            <row>
+              <entry>To find output numbers [LO 2.3] </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7223356">1. When we count in 6’s we are saying the <emphasis effect="bold">multiples of 6.</emphasis></para>
+      <para id="id7463070">1.1 Work with a friend. One of you must count in 6’s from 0 to 102. The other one must use a calculator to check you and stop you if you make a mistake. If that happens the one with the calculator must just say, ”Stop!” and show the calculator. The counting goes on from there. Then swap over.</para>
+      <para id="id6650698">1.2 Now fill in the missing multiples of 6 in the table below:</para>
+      <table id="id7490087" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 6</entry>
+              <entry>6</entry>
+              <entry>12</entry>
+              <entry>18</entry>
+              <entry>24</entry>
+              <entry>30</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>60</entry>
+              <entry>66</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7069484">1.3 Now count backwards in 6’s from 102 to 0. Let a friend check you. Then swap over. Do you notice anything? Yes, multiples of 6 are all even numbers.</para>
+      <para id="id7201967"/>
+      <para id="id1169410209054">1.4 What patterns do you notice? Yes, the last digits seem to be 6;..2; ..8; ..4; ..0. They are repeated and so form a pattern.</para>
+      <para id="id7064269">Now that you are aware of this, you can count in 6’s for ever (if you concentrate)!</para>
+      <para id="id7268388">1.5 Count in 6’s and complete the flow diagram:</para>
+      <figure id="id7158693">
+        <media id="id7158693_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-1f5f.png" id="id7158693__onlineimage" height="236" width="355"/>
+        </media>
+      </figure>
+      <para id="id7208327">1.6 How do we programme the calculator to count in 6’s?</para>
+      <para id="id7284074">Press clear and</para>
+      <para id="id7319793"/>
+      <para id="id6221196">1.7 Write down the multiples of 6 from 102 to 0:</para>
+      <para id="id5677546"/>
+      <para id="id7053975"/>
+      <para id="id7678111">1.8 How do we programme the calculator to count backwards in 6’s from 102?</para>
+      <para id="id7142708">Press clear and</para>
+      <para id="id7247041"/>
+      <para id="id7655912">Now you can really count in 6’s easily, so let’s move on to 7’s.</para>
+      <para id="id7147149">2. <emphasis effect="bold">Multiples of 7</emphasis></para>
+      <para id="id1169410144348">2.1 Now use your calculator (if necessary) to count in 7’s and complete the flow diagram:</para>
+      <para id="id4749616">
+        <figure id="id5771841">
+          <media id="id5771841_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-25c3.png" id="id5771841__onlineimage" height="251" width="379"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7548536"> Can you spot any patterns? Two are written below. Try to spot some more and discuss with a friend.</para>
+      <list id="id7680270" list-type="bulleted">
+        <item>They are both odd and even numbers.</item>
+        <item>They seem to be: odd, even, odd, even.</item>
+      </list>
+      <para id="id7038195">2.2 Now fill in the missing multiples of 7:</para>
+      <table id="id3399766" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 7</entry>
+              <entry>7 </entry>
+              <entry>14</entry>
+              <entry>21</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>70</entry>
+              <entry>77</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7137112">There seems to be some sort of repetition after the first 9 multiples. Does it continue? </para>
+      <para id="id7445356">Are there any other patterns? Write down what you have noticed.</para>
+      <list id="id7485675" list-type="bulleted">
+        <item>Count backwards in 7’s from 105 to 0. Use your calculator to do this if necessary.</item>
+        <item>Write the missing multiples of 6 in the table below and then the multiples of 7 in the next row. Do you notice anything?</item>
+      </list>
+      <table id="id7217252" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 6</entry>
+              <entry>6 </entry>
+              <entry>12</entry>
+              <entry>18</entry>
+              <entry>24</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>× 7</entry>
+              <entry>7</entry>
+              <entry>14</entry>
+              <entry>21</entry>
+              <entry>28</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7275748">2.5 Now compare the two rows (across) of answers. A very interesting pattern appears to be emerging.</para>
+      <para id="id5681428">Look: 1 × 7 = 1× 6 + 1  </para>
+      <para id="id2741395">5 × 7 = 5 × 6 + ……  </para>
+      <para id="id6692548">9 × 7 = 9 × 6 + ……</para>
+      <para id="id7541884">2 × 7 = 2 × 6 + …….  </para>
+      <para id="id7153299">6 × 7 = 6 × 6 + ……  </para>
+      <para id="id7446344">10 × 7 = 10 × 6 + …..</para>
+      <list id="id8634939" list-type="enumerated" number-style="arabic">
+        <item>× 7 = 3 × 6 + ……  </item>
+        <item>7 × 7 = 7 × 6 + ……  </item>
+        <item>11 × 7 = 11 × 6 +……</item>
+      </list>
+      <para id="id1169406775731"> 4 × 7 = 4 × 6 + ……  </para>
+      <para id="id7188313">8 × 7 = 8 × 6 + ……  </para>
+      <para id="id8613966">12 × 7 = 12 × 6 +……</para>
+      <para id="id5860298">3. <emphasis effect="bold">Multiples of 8</emphasis></para>
+      <para id="id8224657">3.1 The numbers jump in 8 wholes. Use the calculator to count in 8’s and write down the missing multiples of 8.</para>
+      <para id="id7520131">0, 8, 16, 24, 32,……., ……., …………, ………, ………….,…………,………., …………, ……., …….., …………, ……… .</para>
+      <para id="id7527660">3.2 Another way of saying: 8 + 8 + 8 + 8 is 4 × 8.</para>
+      <para id="id7535311">Now complete the flow diagram:</para>
+      <para id="id7605015">
+        <figure id="id5167617">
+          <media id="id5167617_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-4435.png" id="id5167617__onlineimage" height="246" width="372"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7286945">3.3 Spot a pattern. Write down the missing multiples of 8 in the table below and look at the last digit of each one. </para>
+      <table id="id7624446" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 8</entry>
+              <entry>8</entry>
+              <entry>16</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>80 </entry>
+              <entry>88</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3153498">Look carefully:</para>
+      <para id="id7579451"><emphasis effect="underline">8</emphasis>; 1<emphasis effect="underline">6</emphasis>; 2<emphasis effect="underline">4</emphasis>; 3<emphasis effect="underline">2</emphasis>; 4<emphasis effect="underline">0</emphasis>; 48; 56; 64; 72; 80; 88; 96</para>
+      <para id="id8831265">If you are aware of the pattern in which 8; ..6; ..4; ..2; ..0; is repeated, and concentrate, you should be able to count in 8’s forever, without mistakes.</para>
+      <list id="id7007084" list-type="bulleted">
+        <item>Now, work with a friend. Count in 8’s from 0 to 104 while your friend checks you on a calculator. Then swap over.</item>
+      </list>
+      <para id="id7199346">3.5 Now count backwards in 8’s from 104 to 0 while your friend checks you on a  calculator.</para>
+      <para id="id7568300"> Then swap over.</para>
+      <para id="id3471489">4. <emphasis effect="bold">Multiples of 9</emphasis></para>
+      <figure id="id4913735">
+        <media id="id4913735_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-d7e3.png" id="id4913735__onlineimage" height="204" width="530"/>
+        </media>
+      </figure>
+      <para id="id7454169">4.1 Do what Sue suggested. Write down the missing multiples of 9 in the flow  diagram and look at the last digit of each one. Spot the pattern.</para>
+      <figure id="id7657306">
+        <media id="id7657306_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-185a.png" id="id7657306__onlineimage" height="271" width="408"/>
+        </media>
+      </figure>
+      <para id="id7186848">4.2 Counting in 9’s is the easiest of all! Now complete the table below.</para>
+      <table id="id7241477" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 9</entry>
+              <entry>9</entry>
+              <entry>18</entry>
+              <entry>27</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>90</entry>
+              <entry>99</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7216926">4.3 Now count backwards in 9’s while a friend checks you on the calculator. Begin  with 108.</para>
+      <para id="id7633355">Now you should feel comfortable when you count in 6’s; 7’s; 8’s and 9’s and you already know how to count in tens. Practise this with a friend, forwards and backwards.</para>
+      <para id="id7659711">TEST YOUR SKILLS</para>
+      <para id="id5572313">1. Complete the following by doing one column each day or all four columns in one day, or two columns per day, as your educator chooses:</para>
+      <table id="id7070914" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>(a) 7 × 4 =…………</entry>
+              <entry>6 × 8 =……………..</entry>
+              <entry>8 × 9 =……………..</entry>
+              <entry>2 × 8 =…………….</entry>
+            </row>
+            <row>
+              <entry>(b) 9 × 8 =</entry>
+              <entry>3 × 7 =</entry>
+              <entry>1 × 7 =</entry>
+              <entry>6 × 9 =</entry>
+            </row>
+            <row>
+              <entry>(c) 7 × 6 =</entry>
+              <entry>8 × 7 =</entry>
+              <entry>6 × 5 =</entry>
+              <entry>8 × 7 =</entry>
+            </row>
+            <row>
+              <entry>(d) 2 × 5 =</entry>
+              <entry>3 × 9 =</entry>
+              <entry>7 × 9 =</entry>
+              <entry>5 × 5 =</entry>
+            </row>
+            <row>
+              <entry>(e) 10 × 10 =</entry>
+              <entry>2 × 8 =</entry>
+              <entry>9 × 9 =</entry>
+              <entry>4 × 6 =</entry>
+            </row>
+            <row>
+              <entry>(f) 3 × 6 =</entry>
+              <entry>8 × 5 =</entry>
+              <entry>9 × 0 =</entry>
+              <entry>9 × 8 =</entry>
+            </row>
+            <row>
+              <entry>(g) 4 × 2 =</entry>
+              <entry>5 × 8 =</entry>
+              <entry>7 × 3 =</entry>
+              <entry>7 × 10 =</entry>
+            </row>
+            <row>
+              <entry>(h) 5 × 6 =</entry>
+              <entry>6 × 6 =</entry>
+              <entry>8 × 8 =</entry>
+              <entry>3 × 8 =</entry>
+            </row>
+            <row>
+              <entry>(j) 4 × 4 =</entry>
+              <entry>0 × 10 =</entry>
+              <entry>4 × 9 =</entry>
+              <entry>5 × 7 =</entry>
+            </row>
+            <row>
+              <entry>(k) 5 × 9 =</entry>
+              <entry>4 × 8 =</entry>
+              <entry>5 × 7 =</entry>
+              <entry>4 × 7 =</entry>
+            </row>
+            <row>
+              <entry>TOTAL:</entry>
+              <entry>TOTAL:</entry>
+              <entry>TOTAL:</entry>
+              <entry>TOTAL:</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2324576">2. Now write all those that you got wrong and write down a way of finding the correct answer for each of them.</para>
+      <para id="id7308096">Activity 2:</para>
+      <para id="id7266922">To do mental calculations involving multiplication of whole numbers [LO 1.9]</para>
+      <para id="id7667745">1. Now complete this flow diagram:</para>
+      <figure id="id3428653">
+        <media id="id3428653_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-61ca.png" id="id3428653__onlineimage" height="268" width="403"/>
+        </media>
+      </figure>
+      <para id="id5405614">2. Ways of solving 7 x 8.</para>
+      <para id="id5815787">Example of solving 7 x 8.</para>
+      <list id="id4810995" list-type="bulleted">
+        <item>7 x 4 + 7 x 4 OR double (7 x 4)</item>
+        <item>8 + 8 + 8 + 8 + 8 + 8 + 8</item>
+        <item>Counting in 8’s till you reach 7 x 8</item>
+        <item>7 x 5 + 7 x 3 i.e. breaking up the 8 as we did previously</item>
+        <item>2 x 8 + 5 x 8 i.e. breaking up the 7 to make it easier; I know 2 x 8 and 5 x 8</item>
+        <item>Double 3 x 8 + 8</item>
+        <item>7 x 10 - 2 x 7Be sure that you know what you are doing!</item>
+      </list>
+      <para id="id8739924"/>
+      <para id="id8642244">3. Now take each one that bothers you, and find a way of reaching the answer <emphasis effect="bold">without a calculator</emphasis> and write your solution in the table below.</para>
+      <para id="id2897581">My way of solving each problem:</para>
+      <table id="id7272125" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>e.g. 8 × 8</entry>
+              <entry>Double 4 × 8 =32 + 32 = 64</entry>
+            </row>
+            <row>
+              <entry>3 × 6</entry>
+              <entry>6 × 3 (I know my 3 times table) = 18</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7618849">TEST YOUR SKILLS</para>
+      <list id="id7500494" list-type="bulleted">
+        <item>Complete each of the following:</item>
+      </list>
+      <para id="id8660431">1.</para>
+      <figure id="id7577846">
+        <media id="id7577846_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-8969.png" id="id7577846__onlineimage" height="186" width="483"/>
+        </media>
+      </figure>
+      <para id="id5677455">2.</para>
+      <figure id="id2393783">
+        <media id="id2393783_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-c2f6.png" id="id2393783__onlineimage" height="185" width="514"/>
+        </media>
+      </figure>
+      <para id="id7644186">3.</para>
+      <para id="id2417265">
+        <figure id="id7022692">
+          <media id="id7022692_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-c260.png" id="id7022692__onlineimage" height="185" width="514"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7216858">4.</para>
+      <figure id="id5851613">
+        <media id="id5851613_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-c2b4.png" id="id5851613__onlineimage" height="190" width="347"/>
+        </media>
+      </figure>
+      <para id="id1169410350789">5.</para>
+      <figure id="id5585770">
+        <media id="id5585770_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 13-badc.png" id="id5585770__onlineimage" height="185" width="514"/>
+        </media>
+      </figure>
+      <para id="id1169410319490">6. Explain the link between 4 and 5.</para>
+      <para id="id6560599">7. Use what you have learnt in 4 and 5 to complete the following:</para>
+      <table id="id7619062" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>(a) 6 × 20 =</entry>
+              <entry>(f) 40 × 20 =</entry>
+            </row>
+            <row>
+              <entry>(b) 7 × 70 =</entry>
+              <entry>(g) 60 × 60 =</entry>
+            </row>
+            <row>
+              <entry>(c) 50 × 3 =</entry>
+              <entry>(h) 50 × 80 =</entry>
+            </row>
+            <row>
+              <entry>(d) 9 × 70 =</entry>
+              <entry>(j) 60 × 7 =</entry>
+            </row>
+            <row>
+              <entry>(e) 8 × 30 =</entry>
+              <entry>(k) 90 × 50 =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7324963">Activity 3:</para>
+      <para id="id4820714">To estimate and calculate by selecting and using a range of techniques [LO 1.1, 1.8]</para>
+      <para id="id2929402">1. You have found ways of calculating answers of tables that you have not memorized. Now estimate the answer by rounding off. Estimations should be quick and easy, but they only give approximate answers. Then find ways of reaching the exact answer of the following sums and write down all your steps:</para>
+      <para id="id7479336">1.1 7 x 18</para>
+      <list id="id2823464" list-type="bulleted">
+        <item>24 x 6</item>
+      </list>
+      <para id="id5799388">Discuss your methods with other friends in your group.</para>
+      <para id="id7308287">1.3 36 x 54</para>
+      <para id="id7266052"/>
+      <para id="id7280131">Examples of methods:</para>
+      <list id="id1169406821821" list-type="bulleted">
+        <item>7 × 18   </item>
+      </list>
+      <para id="id6505613">Estimation: 7 × 20 = 140; the answer is about 140 </para>
+      <para id="id1169406856820">7 × 10 + 7 × 8 i.e. 7 times all of 18  </para>
+      <para id="id1169406674736">Other ways of finding the exact answer:</para>
+      <para id="id1169406761828">or: 18 + 18 + 18 + 18 + 18 +18 + 18</para>
+      <para id="id7483133">or: 7 × 20 － 14 </para>
+      <para id="id1169410099463">There are other methods. Try to think of them.</para>
+      <list id="id1169407009501" list-type="bulleted">
+        <item>64 × 35 </item>
+      </list>
+      <para id="id8981754">i.e. all of 64 × all of 35  </para>
+      <para id="id7679926">Estimation: 60 × 40 =2 400</para>
+      <para id="id7255906">60 × 30 = 1 800</para>
+      <para id="id7692490">60 × 5 = 300 i.e. add all answers</para>
+      <para id="id8979734">4 × 30 = 120</para>
+      <para id="id8089241">4 × 5 = <emphasis effect="underline">20</emphasis></para>
+      <para id="id8883553">2 240</para>
+      <para id="id2664172">When you are really comfortable with this method, you can proceed to the old traditional vertical method. Don’t try to get there too quickly; more haste, less speed.</para>
+      <para id="id7310677">2. Word sums.</para>
+      <para id="id2534070">2.1 Share 54 Smarties equally amongst 9 friends. What does each one receive?</para>
+      <para id="id7038023"/>
+      <para id="id7549146">2.2 54 learners have to be transported to an Athletics Meeting. The coach wants to hire vehicles that may take 8 passengers. How many vehicles will be needed?</para>
+      <para id="id7145877"/>
+      <para id="id6531404">2.3 A shopkeeper has 106 apples. He puts them on little trays to sell them in his shop.  There are 6 apples on each tray. How many trays can he fill?</para>
+      <para id="id7469721"/>
+      <para id="id7591507">
+        <emphasis effect="bold">Some</emphasis>
+        <emphasis effect="bold"> methods:</emphasis>
+      </para>
+      <list id="id7558153" list-type="bulleted">
+        <item>9 + 9 + 9 + 9 + 9 + 9 (How many 9’s in 54?)</item>
+      </list>
+      <para id="id7481983">or: 54  9</para>
+      <para id="id7036735">9 × ? = 54</para>
+      <para id="id7449385">There are other methods</para>
+      <list id="id7640688" list-type="bulleted">
+        <item>54  8</item>
+      </list>
+      <para id="id1169410378992">6 × 8 = 48; 6 rem. 6, but they are people who have to get to the athletics meeting.</para>
+      <para id="id2427437">7 × 8 = 56</para>
+      <para id="id3603412">7 vehicles will be needed and there will be 2 empty seats on one of them.</para>
+      <list id="id1169410344532" list-type="bulleted">
+        <item>106  6</item>
+      </list>
+      <para id="id5823853">10 × 6 = 60</para>
+      <para id="id6565897">5 × 6 = 30</para>
+      <para id="id7297429">2 × 6 = <emphasis effect="underline">12</emphasis></para>
+      <para id="id7159123">102</para>
+      <para id="id7579446">17 trays rem. 4 apples (The key word here is “fill”.)</para>
+      <para id="id7008929">There are other ways. Discuss them with your friends and find the way that you understand best.</para>
+      <para id="id7331521">3. Calculate the answer. Write down the steps of your calculations, explaining (in numbers) how you reached your solution. Then write down the steps which you used to check that your answer is reasonable.</para>
+      <para id="id6221205">3.1 The mass of a van after it has been loaded is 2 500 kg. If the mass of the load is  500 kg, what is the mass of the van when it is empty?</para>
+      <para id="id3631509">3.2 The mass of one bag of cement is 25 kg. How many bags of cement will there be if the mass of the whole load is 500 kg?</para>
+      <para id="id7668662"/>
+      <para id="id3035788">3.3 The petrol tank of the van can hold 55 litres of petrol when it is full. The van needs one litre of petrol to travel 13 km. The driver fills his tank with petrol. How far can he travel before he needs to fill his tank again?</para>
+      <para id="id7068487"/>
+      <para id="id7021934">3.4 When the van is used for short trips around the town, it only travels 11 km per litre of petrol. The driver fills his petrol tank, which holds 55 litres of petrol. How many kilometres can it travel in the town?</para>
+      <para id="id2206954">3.5 Your school soccer team has to travel from Cape Town to Grahamstown to take part in a soccer tournament. Your team can go by bus along the coast, a distance of 899 km, or you can go by train via De Aar. The distance between Cape Town and De Aar is 762 km. From De Aar to Grahamstown is 444 km.</para>
+      <para id="id2285794">
+        <figure id="id7463601">
+          <media id="id7463601_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 14-fde9.png" id="id7463601__onlineimage" height="126" width="430"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id2473725">How much further will you travel if you go by train?</para>
+      <para id="id1169410232178">3.6 A special tour to the Kruger National Park is arranged for 134 tourists from overseas. At the rest camp 8 people can sleep in a rondavel. How many rondavels are needed for the tourists?</para>
+      <para id="id6230637"/>
+      <para id="id6226082">3.7 There is a tourist shop at the rest camp in the Kruger Park. In this shop special torches called Bush Baby Lanterns are sold. Seven tourists buy a torch each and together they pay R273 for them. How much does one Bush Baby Lantern cost?</para>
+      <para id="id2790114"/>
+      <para id="id3548337">3.8 On one side of the car park at the rest camp there is a straight fence consisting of wooden poles. The upright poles for this fence are 3 m apart. There are 18 upright poles. How long is the fence? (To understand the story, draw a fence with 6 poles – technique: substituting smaller numbers in order to understand the story.)</para>
+    </section>
+    <section id="id6205820">
+      <title>Assessment</title>
+      <table id="id1169406762594" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.1 counts forwards and backwards in a variety of intervals;</entry>
+            </row>
+            <row>
+              <entry>1.3 recognises and represents the following numbers in order to describe and compare them: common fractions with different denominators, common fractions in diagrammatic form, decimal fractions and multiples of single-digit numbers;</entry>
+            </row>
+            <row>
+              <entry>1.3.2 common fractions with different denominators, including halves, thirds, quarters, fifths, sixths, sevenths and eighths;</entry>
+            </row>
+            <row>
+              <entry>1.3.3 common fractions in diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>1.3.4 decimal fractions of the form 0,5; 1,5 and 2,5; etc., in the context of measurement; </entry>
+            </row>
+            <row>
+              <entry>1.3.6 multiples of single-digit numbers to at least 100;</entry>
+            </row>
+            <row>
+              <entry>1.5 recognises and uses equivalent forms of the numbers including common fractions and decimal fractions;</entry>
+            </row>
+            <row>
+              <entry>1.5.1 common fractions with denominators that are multiples of each other;</entry>
+            </row>
+            <row>
+              <entry>1.5.2 decimal fractions of the form 0,5; 1,5 and 2,5, etc., in the context of measurement;</entry>
+            </row>
+            <row>
+              <entry>1.7 solves problems that involve comparing two quantities of different kinds (rate);</entry>
+            </row>
+            <row>
+              <entry>1.7.1 comparing two or more quantities of the same kind (ratio);</entry>
+            </row>
+            <row>
+              <entry>1.8 estimates and calculates by selecting and using operations appropriate to solving problems that involve addition of common fractions, multiplication of at least whole 2-digit by 2-digit numbers, division of at least whole 3-digit by 1-digit numbers and equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.8.3 addition of common fractions in context;</entry>
+            </row>
+            <row>
+              <entry>1.8.6 equal sharing with remainders;</entry>
+            </row>
+            <row>
+              <entry>1.9 performs mental calculations involving:</entry>
+            </row>
+            <row>
+              <entry>1.9.2 multiplication of whole numbers to at least 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.12 recognises, describes and uses:, and </entry>
+            </row>
+            <row>
+              <entry>1.12.1 the reciprocal relationship between multiplication and division (e.g. if 5 x 3 = 15 then 15 ÷ 3 = 5 and 15 ÷ 5 = 3;</entry>
+            </row>
+            <row>
+              <entry>1.12.2 the equivalence of division and fractions (e.g. 1 ÷ 8 = ⅛);</entry>
+            </row>
+            <row>
+              <entry>1.12.3 the commutative, associative and distributive properties with whole numbers.</entry>
+            </row>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates and extends numeric and geometric patterns looking for a relationship or rules;</entry>
+            </row>
+            <row>
+              <entry>2.1.1 represented in physical or diagrammatic form;</entry>
+            </row>
+            <row>
+              <entry>2.1.2 not limited to sequences involving constant difference or ratio;</entry>
+            </row>
+            <row>
+              <entry>2.1.3 found in natural and cultural contexts;</entry>
+            </row>
+            <row>
+              <entry>2.1.4 of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 describes observed relationships or rules in own words;</entry>
+            </row>
+            <row>
+              <entry>2.3 determines output values for given input values using verbal descriptions and flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.3.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.3.2 flow diagrams.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id2781635">
+      <title>Memorandum</title>
+      <para id="id7158415">ACTIVITY 1</para>
+      <section id="id2330801">
+        <title>MULTIPLES; NUMBER PATTERNS; FLOW DIAGRAMS</title>
+        <list id="id7333910" list-type="enumerated" number-style="arabic">
+          <item>Multiples of 6</item>
+        </list>
+        <list id="id7144008" list-type="bulleted">
+          <item>Oral</item>
+          <item>Missing multiples of 6</item>
+        </list>
+        <table id="id2547411" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 6</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>36</entry>
+                <entry>42</entry>
+                <entry>48</entry>
+                <entry>54</entry>
+                <entry/>
+                <entry/>
+                <entry>72</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id6796050" list-type="bulleted">
+          <item>Oral</item>
+          <item>Own answers e.g. they’re all even numbers; they’re all also multiples of 3; some are multiples of 9; some are multiples of 12; they are no prime numbers etc.</item>
+          <item>Flow diagram: Output numbers are: 12; 18; 24; 30; 36; 42; 48; 54; 60</item>
+          <item>Using the calculator to count in 6’s: press clear; 6 + = = = or 6 + + = = =</item>
+          <item>6; 12; 18; 24; 30; 36; 42; 48; 54; 60; 66; 72; 78; 84; 90; 96; 102</item>
+          <item>clear; 102 – 6 = = = or clear; 6 － － 102 = = =</item>
+        </list>
+        <para id="id6112858">2. Multiples of 7</para>
+        <para id="id6323594">2.1 Flow diagram – output numbers: 14; 21; 28; 35; 42; 49; 56; 63; 70</para>
+        <list id="id7615492" list-type="bulleted">
+          <item>Missing multiples of 7</item>
+        </list>
+        <table id="id5897533" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 7</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>28</entry>
+                <entry>35</entry>
+                <entry>42</entry>
+                <entry>49</entry>
+                <entry>56</entry>
+                <entry>63</entry>
+                <entry/>
+                <entry/>
+                <entry>84</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id7242628" list-type="bulleted">
+          <title/>
+          <item>Yes</item>
+          <item>Own ideas</item>
+        </list>
+        <para id="id8890677">2.3 105; 98; 91; 84; 77; 70; 63; 56; 49; 42; 35; 28; 21; 14; 7; 0</para>
+        <para id="id5615318">2.4 Missing multiples of 6 and of 7</para>
+        <table id="id2870545" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 6</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>30</entry>
+                <entry>36</entry>
+                <entry>42</entry>
+                <entry>48</entry>
+                <entry>54</entry>
+                <entry>60</entry>
+                <entry>66</entry>
+                <entry>72</entry>
+              </row>
+              <row>
+                <entry>x 7</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>35</entry>
+                <entry>42</entry>
+                <entry>49</entry>
+                <entry>56</entry>
+                <entry>63</entry>
+                <entry>70</entry>
+                <entry>77</entry>
+                <entry>84</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7281578">2.5 The difference between the multiples of 6 and of 7: 1; 2; 3; …</para>
+        <para id="id7285972">i.e. 1 x 6 = <emphasis effect="italics">6</emphasis> ; 1 x 7 =<emphasis effect="italics"> 7 </emphasis>the difference between the <emphasis effect="italics">answers </emphasis>is 1;</para>
+        <para id="id922169">2 x 6 = <emphasis effect="italics">12</emphasis> ; 2 x 7 =<emphasis effect="italics"> 14 </emphasis>the difference between the <emphasis effect="italics">answers </emphasis>is 2;</para>
+        <para id="id2521666">3 x 6 = <emphasis effect="italics">18 ;</emphasis> 3 x 7 =<emphasis effect="italics"> 21 </emphasis>the difference between the <emphasis effect="italics">answers </emphasis>is 3, etc.</para>
+        <para id="id6299191">Missing numbers:</para>
+        <para id="id1169410240905"> 1;    5 ;    9</para>
+        <para id="id7198615"> 2;    6;    10</para>
+        <para id="id5632935"> 3;    7;    11</para>
+        <para id="id7491276"> 4;    8;    12</para>
+        <list id="id5621533" list-type="enumerated" number-style="arabic">
+          <item>Multiples of 8 missing numbers:</item>
+        </list>
+        <para id="id2352589">32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120</para>
+        <para id="id5671999">3.2 Flow diagram: missing output numbers: 16; 24; 32; 40; 48; 56; 64; 72; 80</para>
+        <para id="id5060239">3.3 Missing multiples of 8:</para>
+        <table id="id5051721" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 8 </entry>
+                <entry/>
+                <entry/>
+                <entry>24</entry>
+                <entry>32</entry>
+                <entry>40</entry>
+                <entry>48</entry>
+                <entry>56</entry>
+                <entry>64</entry>
+                <entry>72</entry>
+                <entry/>
+                <entry/>
+                <entry>96</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5815439">3.4 Oral</para>
+        <para id="id4668243">3.5 Oral</para>
+        <para id="id7026273">4. Multiples of 9</para>
+        <para id="id7186494">4.1 Flow diagram – missing output numbers: 18; 27; 36; 45; 54; 63; 72; 81; 90</para>
+        <list id="id7675924" list-type="bulleted">
+          <item>Missing multiples of 9</item>
+        </list>
+        <table id="id5735563" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 9 </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>36</entry>
+                <entry>45</entry>
+                <entry>54</entry>
+                <entry>63</entry>
+                <entry>72</entry>
+                <entry>81</entry>
+                <entry/>
+                <entry/>
+                <entry>108</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id7505251" list-type="bulleted">
+          <item>Oral</item>
+        </list>
+        <section id="id6175644">
+          <title>For Fun – oral</title>
+          <para id="para-id6175644">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id4880220">
+          <title>Test your skills</title>
+          <para id="id7578352">1. (a) 28, 48, 72, 16</para>
+          <para id="id7302110">(b) 72, 21, 7, 54</para>
+          <para id="id8923276">(c) 42, 56, 30, 56</para>
+          <para id="id7652686">(d) 10, 27, 63, 25</para>
+          <para id="id1427731">(e) 100, 16, 81, 24</para>
+          <para id="id7223332">(f) 18, 40, 0, 72</para>
+          <para id="id2502724">(g) 8, 40, 21, 70</para>
+          <para id="id8901434">(h) 30, 36, 64, 24</para>
+          <para id="id7067058">(j) 16, 0, 36, 35</para>
+          <para id="id2691643">(k) 45, 32, 35, 28</para>
+          <para id="id3654736">2. Own</para>
+          <para id="id7242416">ACTIVITY 2</para>
+          <para id="id6604787">1. Flow diagram – multiples of 8, mixed up</para>
+          <para id="id5849341">Missing output numbers: 16; 72; 32; 48; 64; 56; 40; 24; 80</para>
+          <para id="id7068987">2. Own</para>
+          <para id="id1169410350068">3. Own</para>
+          <para id="id7078965">4. Own methods of solving multiplication of single digit x single digit.</para>
+        </section>
+      </section>
+      <section id="id6236975">
+        <title>TEST YOUR SKILLS</title>
+        <para id="id6289162">1. Flow diagram – missing output numbers: 50; 57; 64; 71; 78; 85</para>
+        <para id="id2438871">2. Flow diagram – missing output numbers: 6; 7; 8; …;11</para>
+        <para id="id7548932">– missing output numbers: …; 86; 95</para>
+        <para id="id2738987">3. Flow diagram – missing output numbers: …; 8</para>
+        <para id="id5051507">– missing output numbers: 28; 40; 46; …; 58; 76</para>
+        <para id="id8932585">4. Flow diagram – missing output numbers: …; 6; 7</para>
+        <list id="id8757443" list-type="bulleted">
+          <item>missing output numbers: 240; 300; …; 480; 540</item>
+        </list>
+        <para id="id7482271">5. Flow diagram – missing output numbers: …; 6; 7</para>
+        <para id="id3612660"> missing output numbers: 240; 300; …; 480; 540</para>
+        <para id="id2893218">6. x 60 ≈ x 6 x 10</para>
+        <para id="id3121952">7. Missing answers</para>
+        <para id="id1169410396722">(a) 120 (b) 490 (c) 150 (d) 630 (e)  240</para>
+        <para id="id2745177">(f) 800 (g) 3 600 (h) 4 000 (j) 420 (k) 4 500</para>
+        <para id="id7588455">ACTIVITY 3 – estimations and calculations</para>
+        <para id="id6204014">1.1 126; 7 x 20 = 140 or 10 x 18 = 180</para>
+        <para id="id3656019">1.2 144 20 x 6 = 120 or 24 x 10 = 240 or 20 x 10 = 200</para>
+        <para id="id7551434">1.3 1 944 40 x 50 = 2 000</para>
+        <para id="id6508901">2. Word sums</para>
+        <para id="id1169410396678">2.1  6 Smarties </para>
+        <para id="id1169410382390">2.2  7 vehicles </para>
+        <para id="id3546963">2.3  17 trays and 4 apples left over</para>
+        <para id="id2967692">3. </para>
+        <para id="id1169410378862">3.1 2 000 kg: 2 000 + 500</para>
+        <para id="id7319329">3.2 20 bags: 25 x 20 = 500</para>
+        <para id="id1169410319298">3.3 715 km: rounding off: 60 x 10 = 600 (various methods of checking)</para>
+        <para id="id2364885">3.4 605 km; rounding off: 60 x 10 = 600</para>
+        <para id="id7316759">3.5  307 km  899 km + 307 km = 762 km + 444 km</para>
+        <para id="id2899979">3.6 17 rondavels; 17 x 8 = 80 + 56 = 136</para>
+        <para id="id7304431">3.7 R39:  39 x 7 = 210 + 63 = 273</para>
+        <para id="id7395203">3.8 I – I – I – I – I – I : 51 m</para>
+      </section>
+    </section>
+  </content>
+</document>
